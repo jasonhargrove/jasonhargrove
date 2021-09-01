@@ -1,8 +1,12 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import messengerReducer from '../features/messenger/messengerSlice';
+import momReducer from '../features/mom/momSlice';
+import streamsReducer from '../features/streams/streamsSlice';
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    messenger: messengerReducer,
+    mom: momReducer,
+    streams: streamsReducer
   },
 });

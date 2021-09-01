@@ -25,8 +25,7 @@ export default App;
 // import awsconfig from './aws-exports';
 
 /*
-          <Switch>
-            <Route exact path="/signout" component={Signout} />
-          </Switch>
+  <Switch>
+    <Route exact path="/signout" component={Signout} />
+  </Switch>
 */
-

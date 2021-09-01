@@ -36,7 +36,7 @@ export const streamsSlice = createSlice({
       const stream_name = action.payload.stream;
       const o = action.payload.orientation;
       if (o === 'flip') {
-        state[stream_name].orientation = (state[stream_name].orientation == 'divergent') ? 'default' : 'divergent';
+        state[stream_name].orientation = (state[stream_name].orientation === 'divergent') ? 'default' : 'divergent';
         const items = state[stream_name].items;
         state[stream_name].items = items.reverse();
       } else {

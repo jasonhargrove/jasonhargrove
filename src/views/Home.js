@@ -20,7 +20,7 @@ function Home() {
     <div className="jh-home">
     	<div className="jhh-container">
 	  		<figure>
-		      <img src="/jasonhargrove-jh-icon.png" />
+		      <img src="/jasonhargrove-jh-icon.png" alt="logo icon that says 'JH', an acronym for Jason Hargrove. the highlight color is orange" />
 		      <figcaption>
 		      	<h1>Jason Hargrove</h1>
 		      	<p>
@@ -36,7 +36,7 @@ function Home() {
 	      <ReactMarkdown>{readme_md}</ReactMarkdown>
     	</div>
     	<div className='jhh-footer'>
-    	  <img src='/site-header.jpg' />
+    	  <img src="/site-header.jpg" alt="banner style graphic that says 'imagine'" />
     	</div>
     </div>
   );
