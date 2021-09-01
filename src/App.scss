@@ -1,0 +1,22 @@
+@import './App.scss_config.scss';
+
+.jh-app {
+  background: #111;
+  bottom: 0;
+  color: rgba(185, 176, 171, 1);
+  left: 0;
+  font-size: 18px; 
+  margin: 0; 
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.jh-app {
+	h1, h2, h3, h4, h5, h6, p {
+		margin: 0;
+		padding: 0;
+	}
+}
