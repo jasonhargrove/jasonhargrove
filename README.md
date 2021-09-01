@@ -6,7 +6,7 @@
 - 🤔 Needing people to help scale an early-stage startup
   - 📫 How to reach me: jasonhargrove1+mainstream@gmail.com
 - 🤔 Available to support early founders, and all founders with tech
-  - 📫 How to reach me: jasonhargrove1+founders@gmail.com
+  - 📫 jasonhargrove1+founders@gmail.com
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: published photography in hundreds of magazines, newspapers, blogs with social impact
 - 💬 Ask me about code, solutions architecture, systems design, product development, photography and media
