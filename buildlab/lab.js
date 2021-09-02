@@ -6,9 +6,7 @@ async function build_lab(options) {
     console.log(message);
     await lab_a();
 
-    resolve({
-      status: 200
-    });
+    resolve();
 
   } catch (e) {console.log(e);reject(e)}})
 }

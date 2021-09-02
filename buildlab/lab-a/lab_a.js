@@ -1,19 +1,34 @@
 import { write_json_file } from '../utils/files.js';
 import { createCanvas } from 'canvas';
-import { fetchDataForAllYears } from './github.contributions.js';
-import { drawContributions } from 'github-contributions-canvas';
+import { fetchDataForAllYears } from './github.contributions';
+import { drawContributions } from './github.contributions.canvas';
+// import { drawContributions } from 'github-contributions-canvas';
 import fs from 'fs';
 
 export function lab_a(options) {
   return new Promise(async (resolve, reject) => {try {
     console.log('\n◽◽◽◽ lab_a');
-    let response;
 
-    // await draw_contributions();
+    const fetch_n_draw = async () => {
 
-    // await fetch_data_and_store();
+      // todo: request M.O.M to automate this nightly
 
-    resolve(response);
+      await fetch_data_and_store();
+
+      await draw_contributions();
+
+      resolve({
+        status: 200
+      });
+    };
+
+    // return fetch_n_draw();
+
+    console.log('\n-- lab_a disabled\n\n');
+
+    resolve({
+      status: 100
+    });
 
   } catch (e) {console.log(e);reject(e)}})
 }
@@ -31,11 +46,11 @@ export function draw_contributions(options) {try {
     },
     username: 'jasonhargrove',
     themeName: 'githubDark',
-    footerText: 'have a great day :)'
+    footerText: 'hey, you got this! have a great day :)'
   });
   fs.writeFileSync('public/github-contributions-jasonhargrove.png', canvas.toBuffer())
 
-  console.log('\n\n 🤠 complete, see public\n');
+  console.log('\n\n 🦄 draw complete, see public\n');
 
   return response;
 
@@ -55,7 +70,7 @@ export function fetch_data_and_store(options) {
       data: response
     });
 
-    console.log('\n\n 🤠 complete\n');
+    console.log('\n\n 🤠 fetch complete\n');
 
     resolve(response);
   } catch (e) {console.log(e);reject(e)}})
