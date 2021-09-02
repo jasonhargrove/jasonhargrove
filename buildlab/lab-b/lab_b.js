@@ -5,16 +5,12 @@ export function lab_b(options) {
 
     const do_something = async () => {
 
-      // todo: request M.O.M to automate this nightly
-
-
-
       resolve({
         status: 200
       });
     };
 
-    return do_something();
+    // return do_something();
 
     console.log('\n-- lab_b disabled\n\n');
 
