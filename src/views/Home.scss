@@ -90,7 +90,11 @@ $view_margin: 62px;
     margin-bottom: $view_margin;
 
     h3:first-of-type {
-      margin-bottom: $view_margin / 2;
+      margin-bottom: 31px;
+
+      @media (min-width: 650px) {
+        margin-bottom: 51px;
+      }
     }
     ul, li {
       padding: 0;
@@ -106,17 +110,22 @@ $view_margin: 62px;
     }
     blockquote {
       border-left: 6px solid $green;
-      // display: block;
       font-size: 15px;
       line-height: 22px;
       margin-left: 4px;
-      margin-top: 42px;
-      padding-left: $view_margin / 2;
+      margin-bottom: 22px;
+      margin-top: 31px;
+      padding-left: 22px;
+
+      @media (min-width: 650px) {
+        margin-top: 51px;
+      }
     }
   }
 }
 
 .jhh-ghc {
+  margin-bottom: 8px;
   img {
     width: 100%;
   }
