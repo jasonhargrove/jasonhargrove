@@ -34,6 +34,9 @@ function Home() {
         </figure>
         <ReactMarkdown className='jhhc-content'>{readme_md}</ReactMarkdown>
       </div>
+      <div className='jhh-ghc'>
+        <img src="/github-contributions-jasonhargrove.png" alt="chart of github contributions by jasonhargrove, shown in a heat map format, with bright green showing the most contributions. the map shows jason was quite active on GitHub as an engineer since 2016, with a very busy 2018 and 2021" />
+      </div>
       <div className='jhh-footer'>
         <img src="/site-header.jpg" alt="banner style graphic that says 'imagine'" />
       </div>
