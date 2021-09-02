@@ -51,7 +51,7 @@ $view_margin: 62px;
 .jhh-container {
 	figure {
 		margin: 0 auto;
-		margin-bottom: 32px;
+		margin-bottom: $view_margin;
 		text-align: center;
 		width: 175px;
 		img {
@@ -74,7 +74,7 @@ $view_margin: 62px;
 }
 
 .jhh-footer {
-	padding-top: $view_margin;
+	padding: $view_margin 0;
 	img {
 		width: 100%;
 	}

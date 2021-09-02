@@ -38,6 +38,11 @@ function Home() {
     	<div className='jhh-footer'>
     	  <img src="/site-header.jpg" alt="banner style graphic that says 'imagine'" />
     	</div>
+    	<p>
+    	  <span>PS, this app is&nbsp;</span>
+	    	<span><a href="https://github.com/jasonhargrove/jasonhargrove">public on GitHub, see how it's made?</a></span>
+    	</p>
+    	<p>&mdash; ✌️ JH</p>
     </div>
   );
 }
