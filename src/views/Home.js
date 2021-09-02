@@ -2,7 +2,6 @@
 import React from 'react';
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-// import readme_path from '../README.md';
 import './Home.scss';
 
 function Home() {
@@ -42,7 +41,7 @@ function Home() {
     	  <span>PS, this app is&nbsp;</span>
 	    	<span><a href="https://github.com/jasonhargrove/jasonhargrove">public on GitHub, see how it's made?</a></span>
     	</p>
-    	<p>&mdash; ✌️ JH</p>
+    	<p>👋 JH</p>
     </div>
   );
 }
