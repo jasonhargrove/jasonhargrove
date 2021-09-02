@@ -2,14 +2,14 @@
 import React from 'react';
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
-import readme_path from '../README.md';
+// import readme_path from '../README.md';
 import './Home.scss';
 
 function Home() {
 	const [readme_md, set_readme_md] = useState('');
 
 	const get_content = async () => {
-		const readme = await fetch(readme_path);
+		const readme = await fetch('/README.md');
 		const text = await readme.text();
 		set_readme_md(text);
 	};
