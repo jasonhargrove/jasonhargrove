@@ -87,6 +87,11 @@ $view_margin: 62px;
 
 .jhh-container {
   .jhhc-content {
+    margin-bottom: $view_margin;
+
+    h3:first-of-type {
+      margin-bottom: $view_margin / 2;
+    }
     ul, li {
       padding: 0;
     }
@@ -98,6 +103,15 @@ $view_margin: 62px;
       @media (min-width: 850px) {
         font-size: unset;
       }
+    }
+    blockquote {
+      border-left: 6px solid $green;
+      // display: block;
+      font-size: 15px;
+      line-height: 22px;
+      margin-left: 4px;
+      margin-top: 42px;
+      padding-left: $view_margin / 2;
     }
   }
 }

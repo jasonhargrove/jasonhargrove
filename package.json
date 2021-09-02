@@ -19,9 +19,10 @@
     "start": "PORT=54321 react-scripts start",
     "prebuild": "npx babel-node buildlab/build.js",
     "build": "react-scripts build",
+    "buildcontent": "cp README.md ./public",
+    "lab": "nodemon --exec babel-node buildlab/lab.js",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "buildlab": "nodemon --exec babel-node buildlab/lab.js"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
