@@ -33,7 +33,7 @@ function Home() {
 		      	</p>
 		      </figcaption>
 				</figure>
-	      <ReactMarkdown>{readme_md}</ReactMarkdown>
+	      <ReactMarkdown className='jhhc-content'>{readme_md}</ReactMarkdown>
     	</div>
     	<div className='jhh-footer'>
     	  <img src="/site-header.jpg" alt="banner style graphic that says 'imagine'" />

@@ -11,7 +11,7 @@ $view_margin: 62px;
   right: 0;
   top: 0;
   @media (min-width: 650px) {
-  	padding: $view_margin 10%;
+  	padding: $view_margin 8%;
   }
   @media (min-width: 850px) {
   	padding: $view_margin 10%;
@@ -40,6 +40,7 @@ $view_margin: 62px;
 	a {
 		color: $blue;
 		text-decoration: none;
+		word-wrap: break-word;
 	}
 }
 
@@ -53,7 +54,6 @@ $view_margin: 62px;
 		margin: 0 auto;
 		margin-bottom: $view_margin;
 		text-align: center;
-		width: 175px;
 		img {
 			border-radius: 50%;
 			width: 125px;
@@ -61,14 +61,25 @@ $view_margin: 62px;
 		figcaption {
 			h1 {
 				font-size: 22px;
-				padding: 10px 0;
 				margin: 0;
+				padding: 10px 0;
 			}
 			p {
 				line-height: 22px;
 				margin-bottom: 8px;
 				padding: 0;
 			}
+		}
+	}
+}
+
+.jhh-container {
+	.jhhc-content {
+		ul, li {
+			padding: 0;
+		}
+		li {
+			margin-left: 20px;
 		}
 	}
 }
