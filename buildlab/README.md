@@ -10,5 +10,5 @@ npm i
 ```
 
 ```
-npm run lab
+npm run buildlab
 ```

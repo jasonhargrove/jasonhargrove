@@ -93,6 +93,12 @@ $view_margin: 62px;
     li {
       margin-left: 20px;
     }
+    a {
+      font-size: 14px;
+      @media (min-width: 850px) {
+        font-size: unset;
+      }
+    }
   }
 }
 

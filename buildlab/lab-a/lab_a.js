@@ -22,7 +22,7 @@ export function lab_a(options) {
       });
     };
 
-    // return fetch_n_draw();
+    return fetch_n_draw();
 
     console.log('\n-- lab_a disabled\n\n');
 
