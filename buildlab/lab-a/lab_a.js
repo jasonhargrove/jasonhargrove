@@ -2,7 +2,6 @@ import { write_json_file } from '../utils/files.js';
 import { createCanvas } from 'canvas';
 import { fetchDataForAllYears } from './github.contributions';
 import { drawContributions } from './github.contributions.canvas';
-// import { drawContributions } from 'github-contributions-canvas';
 import fs from 'fs';
 
 export function lab_a(options) {
@@ -10,11 +9,9 @@ export function lab_a(options) {
     console.log('\n◽◽◽◽ lab_a');
 
     const fetch_n_draw = async () => {
-
-      // todo: request M.O.M to automate this nightly
+      // M.O.M automates this nightly
 
       await fetch_data_and_store();
-
       await draw_contributions();
 
       resolve({
