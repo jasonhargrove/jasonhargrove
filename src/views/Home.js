@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import './Home.scss';
 
 function Home() {
+  const cache_bust = Date.now();
   const [readme_md, set_readme_md] = useState('');
 
   const get_content = async () => {
@@ -36,7 +37,7 @@ function Home() {
       </div>
       <div className='jhh-ghc'>
         <a href='https://github.com/jasonhargrove'>
-          <img src="/github-contributions-jasonhargrove.png" alt="chart of github contributions by jasonhargrove, shown in a heat map format, with bright green showing the most contributions. the map shows jason was quite active on GitHub as an engineer since 2016, with a very busy 2018 and 2021" />
+          <img src={`/github-contributions-jasonhargrove.png?${cache_bust}`} alt="chart of github contributions by jasonhargrove, shown in a heat map format, with bright green showing the most contributions. the map shows jason was quite active on GitHub as an engineer since 2016, with a very busy 2018 and 2021" />
         </a>
       </div>
       <div className='jhh-footer'>
