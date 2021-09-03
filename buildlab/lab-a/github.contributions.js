@@ -9,10 +9,10 @@ import _ from "lodash";
 
 const COLOR_MAP = {
   0: "#ebedf0",
-  1: "#9be9a8",
-  2: "#40c463",
-  3: "#30a14e",
-  4: "#216e39"
+  1: "#8AC14D",
+  2: "#60ad4b",
+  3: "#4f9d45",
+  4: "#368CC6"
 };
 
 export async function fetchYears(username) {

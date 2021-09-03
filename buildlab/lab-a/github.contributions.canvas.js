@@ -68,15 +68,25 @@ var themes = {
     grade1: "#c6e48b",
     grade0: "#ebedf0"
   },
+  // githubDark: {
+  //   background: "#101217",
+  //   text: "#ffffff",
+  //   meta: "#dddddd",
+  //   grade4: "#27d545",
+  //   grade3: "#10983d",
+  //   grade2: "#00602d",
+  //   grade1: "#003820",
+  //   grade0: "#161b22"
+  // },
   githubDark: {
-    background: "#101217",
-    text: "#ffffff",
+    background: "#111111",
+    text: "#dddddd",
     meta: "#dddddd",
-    grade4: "#27d545",
-    grade3: "#10983d",
-    grade2: "#00602d",
-    grade1: "#003820",
-    grade0: "#161b22"
+    grade4: "#E46D36",
+    grade3: "#e8c021",
+    grade2: "#8AC14D",
+    grade1: "#4f9d45",
+    grade0: "#17181d"
   },
   halloween: {
     background: "#ffffff",
