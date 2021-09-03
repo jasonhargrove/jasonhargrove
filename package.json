@@ -48,7 +48,6 @@
     "cheerio": "^1.0.0-rc.10",
     "date-fns": "^2.23.0",
     "lodash": "^4.17.21",
-    "md2gslides": "^0.5.1",
     "node-fetch": "^3.0.0",
     "nodemon": "^2.0.12",
     "request": "^2.88.2",

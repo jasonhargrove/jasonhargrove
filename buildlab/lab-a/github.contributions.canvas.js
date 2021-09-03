@@ -82,7 +82,7 @@ var themes = {
     background: "#111111",
     text: "#dddddd",
     meta: "#dddddd",
-    grade4: "#E46D36",
+    grade4: "#dc5c43",
     grade3: "#e8c021",
     grade2: "#8AC14D",
     grade1: "#4f9d45",
