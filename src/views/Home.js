@@ -37,8 +37,15 @@ function Home() {
       </div>
       <div className='jhh-ghc'>
         <a href='https://github.com/jasonhargrove'>
-          <img src={`/github-contributions-jasonhargrove.png?${cache_bust}`} alt="chart of github contributions by jasonhargrove, shown in a heat map format, with bright green showing the most contributions. the map shows jason was quite active on GitHub as an engineer since 2016, with a very busy 2018 and 2021" />
+          <img src={`/github-contributions-jasonhargrove.png?${cache_bust}`} alt="chart of github contributions by jasonhargrove, shown in a heat map format, with bright colors showing the most contributions. the map shows jason was quite active on GitHub as an engineer since 2016, with a very busy 2018 and 2021" />
         </a>
+        <div className='jhhghc-days'>
+          <ul>
+            <li>Monday</li>
+            <li>Wednesday</li>
+            <li>Friday</li>
+          </ul>
+        </div>
       </div>
       <div className='jhh-footer'>
         <img src="/site-header.jpg" alt="banner style graphic that says 'imagine'" />
