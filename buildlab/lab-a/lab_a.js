@@ -9,7 +9,7 @@ export function lab_a(options) {
     console.log('\n◽◽◽◽ lab_a');
 
     const fetch_n_draw = async () => {
-      // M.O.M automates this nightly
+      // M.O.M automates this throughtout the day
 
       await fetch_data_and_store();
       await draw_contributions();
