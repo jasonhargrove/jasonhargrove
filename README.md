@@ -8,7 +8,7 @@
 - 🤔 Available to support early founders, and all founders with tech
   - 📫 <jasonhargrove1+founders@gmail.com>
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: published photography in hundreds of magazines, newspapers, blogs with social impact (because of fashion, arts, and news)
+- ⚡ Fun fact: published photography in hundreds of magazines, newspapers, blogs with social impact (because of fashion, arts, entertainment, and news)
 - 💬 Ask me about code, solutions architecture, systems design, product development, photography and media
 - 🍵 Fave teas: Lushan green tea (Starbucks has one, the Emperor's Clouds & Mist), Earl Grey, London Fog
 
