@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Working on Mainstream & Reverie
-- 🌱 Presently learning AWS Cognito, Appsync, API Gateway, and Lambda. Solidity (NFTs). GraphQL
+- 🌱 Presently learning AWS Cognito, Appsync, API Gateway, and Lambda. GraphQL. Solidity and Rust (NFTs)
 - 👯 Looking to collaborate on chat apps and digital robotics; solutions for content creators
 - 🤔 Needing people who scale early-stage startups
   - 📫 How to reach me: <jasonhargrove1+mainstream@gmail.com>
