@@ -1,10 +1,10 @@
 {
-  "updated": "2021-09-03T21:05:08.122Z",
+  "updated": "2021-09-11T00:16:39.030Z",
   "data": {
     "years": [
       {
         "year": "2021",
-        "total": 1211,
+        "total": 1319,
         "range": {
           "start": "2021-01-01",
           "end": "2021-12-31"
@@ -774,33 +774,33 @@
       },
       {
         "date": "2021-09-10",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 18,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2021-09-09",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 25,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2021-09-08",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 12,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2021-09-07",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 10,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2021-09-06",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 22,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2021-09-05",
@@ -810,19 +810,19 @@
       },
       {
         "date": "2021-09-04",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
-      },
-      {
-        "date": "2021-09-03",
-        "count": 11,
+        "count": 5,
         "color": "#8AC14D",
         "intensity": "1"
       },
       {
+        "date": "2021-09-03",
+        "count": 26,
+        "color": "#4f9d45",
+        "intensity": "3"
+      },
+      {
         "date": "2021-09-02",
-        "count": 24,
+        "count": 25,
         "color": "#4f9d45",
         "intensity": "3"
       },
