@@ -55,15 +55,37 @@ export function draw_contributions(options) {try {
 
 export function fetch_data_and_store(options) {
   return new Promise(async (resolve, reject) => {try {
-    console.log('\n◽◽ fetch_all_and_write');
+    console.log('\n◽◽ fetch_data_and_store');
     let response;
 
     response = await fetchDataForAllYears('jasonhargrove');
-    console.log('x', JSON.stringify(response, null, 2));
 
-    const date = new Date();
+    // Fix anomaly between the data and the GH interface. Timezone issue? 
+    // Manual fix for now
+    for(let i in response.contributions) {
+      const day = response.contributions[i];
+      if (day.date === '2021-09-11') {
+        // should be 0 not 1
+        response.contributions[i] = {
+          date: '2021-09-11',
+          count: 0,
+          color: '#ebedf0',
+          intensity: '0'
+        };
+      }
+      if (day.date === '2021-09-10') {
+        // should be 23 not 22
+        response.contributions[i] = {
+          date: '2021-09-10',
+          count: 23,
+          color: '#60ad4b',
+          intensity: '3'
+        };
+      }
+    }
+
     write_json_file(__dirname + '/github-contributions-all-data.json', {
-      updated: date,
+      updated: new Date(),
       data: response
     });
 

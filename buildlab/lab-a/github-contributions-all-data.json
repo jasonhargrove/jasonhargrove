@@ -1,10 +1,10 @@
 {
-  "updated": "2021-09-11T00:16:39.030Z",
+  "updated": "2021-09-13T19:07:11.666Z",
   "data": {
     "years": [
       {
         "year": "2021",
-        "total": 1319,
+        "total": 1351,
         "range": {
           "start": "2021-01-01",
           "end": "2021-12-31"
@@ -756,15 +756,15 @@
       },
       {
         "date": "2021-09-13",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 3,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2021-09-12",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 24,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2021-09-11",
@@ -774,9 +774,9 @@
       },
       {
         "date": "2021-09-10",
-        "count": 18,
+        "count": 23,
         "color": "#60ad4b",
-        "intensity": "2"
+        "intensity": "3"
       },
       {
         "date": "2021-09-09",
