@@ -1,8 +1,8 @@
 // Works great
-//// npx tsc-watch buildlab/ts/typescript.ts --outDir ./buildlab/ts/gitignore-generated --onSuccess "node ./buildlab/ts/gitignore-generated/typescript.js"
+//// npx tsc-watch buildlab/lab-ts/typescript.ts --outDir ./buildlab/lab-ts/gitignore-generated --onSuccess "node ./buildlab/lab-ts/gitignore-generated/typescript.js"
 
 // Works well
-//// npx nodemon -e 'ts,js' buildlab/ts/typescript.ts
+//// npx nodemon -e 'ts,js' buildlab/lab-ts/typescript.ts
 
 import { test, test_fn } from './typescript_test_fn';
 

@@ -1,9 +1,9 @@
 // Works well
-//// npx nodemon -e 'ts,js' buildlab/ts/typescript_import_javascript.ts
+//// npx nodemon -e 'ts,js' buildlab/lab-ts/typescript_import_javascript.ts
 ////// Depends on the tsconfig.json in same directory ("module": "commonjs")
 
 // Does not copy imported JS (as it does with the imported TS)
-//// npx tsc-watch buildlab/ts/typescript_import_javascript.ts --outDir ./buildlab/ts/gitignore-generated --onSuccess "node ./buildlab/ts/gitignore-generated/typescript_import_javascript.js"
+//// npx tsc-watch buildlab/lab-ts/typescript_import_javascript.ts --outDir ./buildlab/lab-ts/gitignore-generated --onSuccess "node ./buildlab/lab-ts/gitignore-generated/typescript_import_javascript.js"
 ////// `/*.ts`` ignores JS files, `/*` watches JS but checks them against TS rules
 
 import { test, test_fn } from './javascript_test_fn.js';

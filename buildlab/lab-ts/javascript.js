@@ -1,6 +1,6 @@
 // Works well
 
-// npx nodemon --exec babel-node buildlab/ts/javascript.js
+// npx nodemon --exec babel-node buildlab/lab-ts/javascript.js
 
 import { test, test_fn } from './javascript_test_fn.js';
 

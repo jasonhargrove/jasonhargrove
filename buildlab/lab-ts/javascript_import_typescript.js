@@ -1,9 +1,9 @@
-// Works with quirks
-//// npx nodemon -e 'js,ts' --ignore buildlab/ts/gitignore-generated/ --exec 'babel-node buildlab/secretlab-ts/javascript_import_typescript.js && npx tsc buildlab/secretlab-ts/typescript_test_fn.ts --outDir buildlab/secretlab-ts/gitignore-generated'
-//// npx nodemon -e 'js,ts' --ignore buildlab/ts/gitignore-generated/ --exec 'babel-node buildlab/secretlab-ts/javascript_import_typescript.js && npx tsc buildlab/secretlab-ts/*.ts --outDir buildlab/secretlab-ts/gitignore-generated'
+// Works with quirks (and very slow)
+//// npx nodemon -e 'js,ts' --ignore buildlab/lab-ts/gitignore-generated/ --exec 'babel-node buildlab/lab-ts/javascript_import_typescript.js && npx tsc buildlab/lab-ts/typescript_test_fn.ts --outDir buildlab/lab-ts/gitignore-generated'
+//// npx nodemon -e 'js,ts' --ignore buildlab/lab-ts/gitignore-generated/ --exec 'babel-node buildlab/lab-ts/javascript_import_typescript.js && npx tsc buildlab/lab-ts/*.ts --outDir buildlab/lab-ts/gitignore-generated'
 
 // Great tool, needs iteration
-//// npx tsc-watch buildlab/ts/*.ts  --outDir ./buildlab/ts/gitignore-generated --onSuccess 'babel-node buildlab/ts/javascript_import_typescript.js'
+//// npx tsc-watch buildlab/lab-ts/*.ts  --outDir ./buildlab/lab-ts/gitignore-generated --onSuccess 'babel-node buildlab/lab-ts/javascript_import_typescript.js'
 //// `/*.ts`` ignores JS files, `/*` watches JS but checks them against TS rules
 
 require('@babel/register')({ extensions: ['.js', '.ts'] })
