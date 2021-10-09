@@ -5,6 +5,8 @@ README
 
 ### About this repository
 
+Intended for beginners! Hi :)
+
 This GitHub repo `jasonhargrove/jasonhargrove` is marked as "special" by GitHub. They consume the `README.md` content in the root directory, and display it on my profile. <https://github.com/jasonhargrove>
 
 I'm also using this repo to develop the app served as my home page. <https://jasonhargrove.com>
@@ -79,7 +81,7 @@ Lab modules are controlled within the code itself. Uncomment or comment as neede
 To see content changes during development, after changing the root `README`, run this job:
 
 ```
-npm run buildcontent
+npm run prebuild-content
 ```
 
 This will copy the root `README` into the public directory, to be consumed by the app and presented on the home site. (The root file is used by GitHub to display that content on my GitHub profile.)

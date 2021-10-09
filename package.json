@@ -15,6 +15,7 @@
   "scripts": {
     "start": "PORT=54321 react-scripts start",
     "prebuild": "npx babel-node buildlab/build.js",
+    "prebuild-content": "cp README.md ./public",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
