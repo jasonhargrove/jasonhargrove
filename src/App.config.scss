@@ -1,19 +1,5 @@
-
 $black: #222;
-$green: #8AC14D;
-$green_two: #60ad4b;
-$green_three: #4f9d45;
-$red: #D5544B;
 $blue: #368CC6;
-$purple: #6c568e;
-$yellow: #e8c021;
-$yellow_two: #dbad2c;
-$orange: #E46D36;
-$orange_two: #dc5b43;
-$white: #fff;
-$white-hover: rgb(250,250,250);
-$familiarFontFamily: sans-serif; 
-
 $gray-base:      #000 !default;
 $gray-darker:    lighten($gray-base, 13.5%) !default;
 $gray-dark:      lighten($gray-base, 20%) !default;
@@ -22,28 +8,16 @@ $gray-light:     lighten($gray-base, 46.7%) !default;
 $gray-lighter:   lighten($gray-base, 63.5%) !default;
 $gray-lightest:   lighten($gray-base, 83.5%) !default;
 $gray-faint:     lighten($gray-base, 97.5%) !default;
-
-.green {
-  color: $green;
-}
-
-.blue {
-  color: $blue;
-}
-
-.half {
-  opacity: 0.5;
-}
-
-.black {
-  color: #000;
-  &.half {
-    opacity: 0.6;
-  }
-}
-
-.hidden {
-  display: none;
-}
+$green: #8AC14D;
+$green_two: #60ad4b;
+$green_three: #4f9d45;
+$orange: #E46D36;
+$orange_two: #dc5b43;
+$purple: #6c568e;
+$red: #D5544B;
+$white: #fff;
+$white-hover: rgb(250,250,250);
+$yellow: #e8c021;
+$yellow_two: #dbad2c;
 
 $font_family: 'Trebuchet Ms', 'Lucida Grande', 'Lucida Sans Unicode', 'Tahoma', 'sans-serif';
