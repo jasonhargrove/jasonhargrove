@@ -19,6 +19,7 @@
 .env.production.local
 secretlab-*
 gitignore-*
+ignore-*
 
 npm-debug.log*
 yarn-debug.log*
