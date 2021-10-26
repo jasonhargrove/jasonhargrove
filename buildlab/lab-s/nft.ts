@@ -43,12 +43,12 @@ import * as splToken from '@solana/spl-token';
   // Generate a new wallet to receive newly minted token
   const toWallet = web3.Keypair.generate();
 
-  //get the token account of the toWallet Solana address, if it does not exist, create it
+  // Get the token account of the toWallet Solana address, if it does not exist, create it
   const toTokenAccount = await mint.getOrCreateAssociatedAccountInfo(
     toWallet.publicKey,
   );
 
-  //minting 1 new token to the "fromTokenAccount" account we just returned/created
+  // Minting 1 new token to the "fromTokenAccount" account we just returned/created
   await mint.mintTo(
     fromTokenAccount.address, //who it goes to
     fromWallet.publicKey, // minting authority
