@@ -4,14 +4,14 @@ import * as web3 from '@solana/web3.js';
 // import * as splToken from '@solana/spl-token';
 (async () => {
   // Connect to cluster
-  var connection = new web3.Connection(
+  const connection = new web3.Connection(
     web3.clusterApiUrl('devnet'),
     'confirmed',
   );
 
   // Generate a new wallet keypair and airdrop SOL
-  var wallet = web3.Keypair.generate();
-  var airdropSignature = await connection.requestAirdrop(
+  const wallet = web3.Keypair.generate();
+  const airdropSignature = await connection.requestAirdrop(
     wallet.publicKey,
     web3.LAMPORTS_PER_SOL,
   );
