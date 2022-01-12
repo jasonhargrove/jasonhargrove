@@ -21,18 +21,6 @@ See below to run the app locally. See it on the web at <https://jasonhargrove.co
 
 The `buildlab` is used to develop build features, and to perform some build tasks by the deployment people and robots.
 
-#### Automated jobs
-
-In an automated way, my home page and GitHub profile are closely synced.
-
-1) copy content from the README that GitHub uses, and display it from the home page, allowing me to keep both profiles up to date from one source
-2) generate an image of GitHub contributions, for display on my home page
-
-#### Future jobs
-
-1) bring recent tweets and tweet likes onto my home page
-2) have my Mainstream robot producer sync my home page with Mainstream projects
-
 ## GETTING STARTED
 
 ### Installation
@@ -44,6 +32,22 @@ git clone git@github.com:jasonhargrove/jasonhargrove.git
 ```
 cd jasonhargrove
 ```
+
+Node canvas has some dependencies.
+
+> Linux
+
+```
+sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+```
+
+> OSX
+
+```
+brew install pkg-config cairo pango libpng jpeg giflib librsvg
+```
+https://www.npmjs.com/package/canvas
+
 
 ```
 npm i
