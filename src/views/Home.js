@@ -20,7 +20,7 @@ function Home() {
     <div className="jh-home">
       <div className="jhh-container">
         <figure>
-          <img src="/jasonhargrove-jh-icon.png" alt="logo icon that says 'JH', an acronym for Jason Hargrove. the highlight color is orange" />
+          <img src="/jasonhargrove-photographer-icon.jpg" alt="PFP of Jason Hargrove holding camera and wearing a tuxedo. highlight color is orange" />
           <figcaption>
             <h1>Jason Hargrove</h1>
             <p>
