@@ -36,6 +36,9 @@ function Home() {
             </a>
           </figcaption>
         </figure>
+        <a href="https://github.com/jasonhargrove/jasonhargrove/blob/main/buildlab/CONTACT.md">
+          <img src="/join_strong_team-smart_contracts_defi_social-contact.png" alt="Join a strong team. Product people in Software. Smart contracts, DeFi, Social. Help people and make the world better. See buildlab/contact.md" />
+        </a>
         <ReactMarkdown className='jhhc-content'>{readme_md}</ReactMarkdown>
       </div>
       <div className='jhh-ghc'>

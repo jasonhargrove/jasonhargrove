@@ -87,10 +87,23 @@ $view_margin: 62px;
       img {
         border-radius: unset;
         bottom: -45px;
+        display: none;
         position: absolute;
         right: -125px;
         width: 425px;
+        @media (min-width: 850px) {
+          display: block;
+        }
       }
+    }
+  }
+  figure + a {
+    img {
+      margin-bottom: $view_margin * 1.4;
+      width: 100%;
+    }
+    @media (min-width: 850px) {
+      display: none;
     }
   }
 }
