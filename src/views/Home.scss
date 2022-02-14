@@ -97,6 +97,66 @@ $view_margin: 62px;
           display: block;
         }
       }
+      .jh-photos {
+        $width: 175px;
+        $height: $width * 1.5714;
+        display: none;
+        @media (min-width: 450px) and (max-width: 850px) {
+          display: block;
+          position: fixed;
+          $padding: 10px;
+          &.img-pos-0 {
+            left: $padding;
+            top: $padding * 5;
+          }
+          &.img-pos-1 {
+            right: $padding * 2;
+            top: $padding;
+          }
+          &.img-pos-2 {
+            left: $padding;
+            top: $padding * 10;
+          }
+          &.img-pos-3 {
+            right: $padding * 4;
+            top: $padding * 5;
+          }
+          &.img-pos-4 {
+            right: $padding * 2;
+            top: $padding * 15;
+          }
+          &.img-pos-5 {
+            right: $padding;
+            top: $padding * 20;
+          }
+          img {
+            border-radius: unset;
+            width: $width;
+          }
+        }
+        @media (min-width: 850px) {
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          min-height: $height;
+          min-width: $height;
+          position: fixed;
+          top: 50px;
+          &.img-orientation-l {
+            img {
+              border-radius: unset;
+              width: $height;
+            }
+          }
+          &.img-orientation-p {
+            img {
+              border-radius: unset;
+              width: $width;
+            }
+          }
+        }
+      }
     }
   }
   figure + a {
