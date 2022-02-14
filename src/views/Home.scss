@@ -115,31 +115,31 @@ $view_margin: 62px;
         }
         @media (min-width: 420px) and (max-width: 850px) {
           display: block;
-          position: fixed;
+          position: absolute;
           $padding: 10px;
           &.img-pos-0 {
             left: $padding;
-            top: $padding * 5;
+            top: -150px;
           }
           &.img-pos-1 {
             right: $padding * 2;
-            top: $padding;
+            top: -100px;
           }
           &.img-pos-2 {
             left: $padding;
-            top: $padding * 10;
+            top: -120px;
           }
           &.img-pos-3 {
             right: $padding * 4;
-            top: $padding * 5;
+            top: -130px;
           }
           &.img-pos-4 {
             right: $padding * 2;
-            top: $padding * 15;
+            top: -110px;
           }
           &.img-pos-5 {
             right: $padding;
-            top: $padding * 20;
+            top: -120px;
           }
           img {
             border-radius: unset;
@@ -150,11 +150,12 @@ $view_margin: 62px;
           align-items: center;
           display: flex;
           flex-direction: column;
+          left: -35px;
           justify-content: center;
           min-height: $height;
           min-width: $height;
-          position: fixed;
-          top: 50px;
+          position: absolute;
+          top: -150px;
           &.img-orientation-l {
             img {
               border-radius: unset;
