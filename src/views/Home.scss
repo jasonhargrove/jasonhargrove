@@ -101,6 +101,18 @@ $view_margin: 62px;
         $width: 175px;
         $height: $width * 1.5714;
         display: none;
+        &.img-rotate-0 {
+          transform: rotate(3deg)
+        }
+        &.img-rotate-1 {
+          transform: rotate(-2deg)
+        }
+        &.img-rotate-2 {
+          transform: rotate(2deg)
+        }
+        &.img-rotate-3 {
+          transform: rotate(-1deg)
+        }
         @media (min-width: 420px) and (max-width: 850px) {
           display: block;
           position: fixed;

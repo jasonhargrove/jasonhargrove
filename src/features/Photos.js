@@ -7,6 +7,7 @@ export function Photos() {
   const experimentalLandscape = [3,6,8,10,11,13,14,16,17,18,20,21];
   const max = 21;
   const posmax = 5;
+  const rotatemax = 3;
   const path = '/collection/op15b/{x}.jpeg';
   const time = 2000;
   const [count, setCount] = useState(0);
@@ -19,8 +20,9 @@ export function Photos() {
     }
   }, [count]);
   const src = path.replace(/{x}/, count);
-  const className = `jh-photos img-${count} img-pos-${randomBetween(0,posmax)}`
-                  + ` img-orientation-${experimentalLandscape.includes(count) ? 'l' : 'p'}`;
+  const className = `jh-photos img-${count} img-pos-${randomBetween(0, posmax)}`
+                  + ` img-orientation-${experimentalLandscape.includes(count) ? 'l' : 'p'}`
+                  + ` img-rotate-${randomBetween(0, rotatemax)}`;
   return (
     <div className={className}>
       <a href={src} target="_blank" rel="noreferrer">
