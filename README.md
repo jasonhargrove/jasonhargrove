@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about product design and engineering, startup operations, digital robotics, photography, and media
+- 💬 Ask me about product design and engineering, startup operations, digital robotics, photography, blockchain, and media
 - ⚡ Fun fact: photos published in hundreds of magazines, newspapers, blogs with social impact (because of fashion, arts, entertainment, & news)
 - 🍵 Fave teas: Lushan green tea (Starbucks has one (Emperor's Clouds & Mist)), Earl Grey, and London Fog
 
