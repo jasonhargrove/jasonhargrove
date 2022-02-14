@@ -3,6 +3,7 @@ import React from 'react';
 import { useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import './Home.scss';
+import { Photos } from '../features/Photos';
 
 function Home() {
   const cache_bust = Date.now();
@@ -34,6 +35,7 @@ function Home() {
             <a href="https://github.com/jasonhargrove/jasonhargrove/blob/main/buildlab/CONTACT.md">
               <img src="/join_strong_team-smart_contracts_defi_social-contact.png" alt="Join a strong team. Product people in Software. Smart contracts, DeFi, Social. Help people and make the world better. See buildlab/contact.md" />
             </a>
+            <Photos />
           </figcaption>
         </figure>
         <a href="https://github.com/jasonhargrove/jasonhargrove/blob/main/buildlab/CONTACT.md">
