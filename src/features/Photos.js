@@ -9,10 +9,14 @@ export function Photos() {
   const posmax = 5;
   const path = '/collection/op15b/{x}.jpeg';
   const time = 2000;
-  const [count, setCount] = useState(0);  useEffect(() => {
-    setTimeout(x => {
+  const [count, setCount] = useState(0);
+  useEffect(() => {
+    const timeout = setTimeout(x => {
       setCount(count < max ? count + 1 : 0);
     }, time);
+    return () => {
+      clearTimeout(timeout);
+    }
   }, [count]);
   const src = path.replace(/{x}/, count);
   const className = `jh-photos img-${count} img-pos-${randomBetween(0,posmax)}`
