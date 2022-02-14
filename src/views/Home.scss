@@ -84,13 +84,15 @@ $view_margin: 62px;
         margin-bottom: 8px;
         padding: 0;
       }
-      img {
-        border-radius: unset;
+      & > a {
         bottom: -45px;
         display: none;
         position: absolute;
         right: -125px;
-        width: 425px;
+        img {
+          border-radius: unset;
+          width: 425px;
+        }
         @media (min-width: 850px) {
           display: block;
         }
