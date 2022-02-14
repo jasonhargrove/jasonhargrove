@@ -101,7 +101,7 @@ $view_margin: 62px;
         $width: 175px;
         $height: $width * 1.5714;
         display: none;
-        @media (min-width: 450px) and (max-width: 850px) {
+        @media (min-width: 420px) and (max-width: 850px) {
           display: block;
           position: fixed;
           $padding: 10px;
