@@ -19,6 +19,12 @@ export function Photos() {
       clearTimeout(timeout);
     }
   }, [count]);
+  useEffect(() => {
+    for(let i = 0; i <= max; i++) {
+      const img = new Image();
+      img.src = path.replace(/{x}/, i);
+    }
+  }, []);
   const src = path.replace(/{x}/, count);
   const className = `jh-photos img-${count} img-pos-${randomBetween(0, posmax)}`
                   + ` img-orientation-${experimentalLandscape.includes(count) ? 'l' : 'p'}`
