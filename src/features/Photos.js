@@ -4,7 +4,7 @@ function randomBetween (min, max) {
 };
 
 export function Photos() {
-  const experimentalLandscape = [3,6,8,10,11,13,14,16,17,18,20,21];
+  const experimentalLandscape = [3,6,8,10,11,13,14,16,17,18,19,21,22];
   const max = 22;
   const posmax = 5;
   const rotatemax = 3;
