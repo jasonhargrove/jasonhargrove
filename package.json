@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lab": "nodemon --exec babel-node buildlab/lab.js",
-    "log": "npx babel-node buildlab/logger.js"
+    "log": "npx babel-node buildlab/lab-l/logger.js"
   },
   "eslintConfig": {
     "extends": [
