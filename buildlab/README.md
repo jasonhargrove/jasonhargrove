@@ -77,7 +77,7 @@ The script adds the content to a log file and automatically commits it. Then a m
 
 When the website is built by the robots (see below) the recent updates are parsed to produce a JSON file, which is then consumed by the React app and presented on the home page.
 
-That's it, that's the app.
+That's it, that's the status app.
 
 ### Run the web app locally for development
 
