@@ -1,8 +1,8 @@
 // npm run log 'some git commit message' 'some git commit content'
+// npm run log 'some title' 'some text'
 
 import fs from 'fs';
 import colors from 'colors';
-import moment from 'moment';
 
 import { line } from './constants.js';
 

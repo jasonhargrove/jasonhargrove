@@ -53,9 +53,35 @@ https://www.npmjs.com/package/canvas
 npm i
 ```
 
-### Run the app for front-end development
+### Add status updates for various use-cases
 
-The front end workflow is based on `create-react-app`. Learn more here <https://create-react-app.dev>
+Previously GitHub tracked my code commits, but not my no-code contributions. Now GH will track everything, via a contribution logger produced on April 3, 2022. From now GH will be a reliable resource to follow my day-to-day activities. As described elsewhere in this document, this data is visually presented on my GH profile (https://github.com/jasonhargrove), and also my home page (https://jasonhargrove.com). There are no databases, and only a few core dependencies. All of the content is stored on GH and in this repo.
+
+To add a status update:
+
+```
+npm run log "Some title" "Some content"
+```
+
+```
+npm run log "Some tag or keyword" "Some description of activity"
+```
+
+```
+npm run log "Some git commit message" "Some git commit content"
+```
+
+The script adds the content to a log file and automatically commits it. Then a manual push to the cloud finishes it.  Forever minted on GitHub and available there (https://github.com/jasonhargrove/jasonhargrove/blob/main/buildlab/lab-l/log.txt), as well as the home page.
+
+#### Status updates automagically appear on home page
+
+When the website is built by the robots (see below) the recent updates are parsed to produce a JSON file, which is then consumed by the React app and presented on the home page.
+
+That's it, that's the app.
+
+### Run the web app locally for development
+
+The web app workflow is based on `create-react-app`. Learn more here <https://create-react-app.dev>
 
 Start the dev server:
 
@@ -80,6 +106,8 @@ npm run lab
 
 Lab modules are controlled within the code itself. Uncomment or comment as needed, the console will indicate the status.
 
+In normal workflow I am running labs directly or via the npm scripts in the package.json file.
+
 #### Run only the content job
 
 To see content changes during development, after changing the root `README`, run this job:
@@ -90,9 +118,9 @@ npm run prebuild-content
 
 This will copy the root `README` into the public directory, to be consumed by the app and presented on the home site. (The root file is used by GitHub to display that content on my GitHub profile.)
 
-#### Run the custom pre-build script manually
+#### Run the pre-build script manually
 
-This copies the content, and also creates the GitHub contributions image. It will do other tasks in the future. Each of these items happens together here:
+This copies the content, and also creates the GitHub contributions image. It also produces a microblog using the status updates text file (see above). It will do other tasks in the future. Each of these items happens together here:
 
 ```
 npm run prebuild
