@@ -25,9 +25,9 @@ console.log(`\n`);
 console.log(`  Committing in 7 seconds  `.bgRed.black);
 
 setTimeout(() => {
-	console.log(`\n`);
-	execSync(`git commit -am 'Activity Log: ${message}'`, { stdio:[0, 1, 2] });
-	console.log(`\n`);
-	console.log(`  Commmitted  `.bgGreen.black);
-	console.log(`\nPush to cloud when ready\n\n`.cyan);
+  console.log(`\n`);
+  execSync(`git commit -am 'Activity Log: ${message}'`, { stdio:[0, 1, 2] });
+  console.log(`\n`);
+  console.log(`  Commmitted  `.bgGreen.black);
+  console.log(`\nPush to cloud when ready\n\n`.cyan);
 }, 7000);
