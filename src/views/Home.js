@@ -61,7 +61,7 @@ function MicroblogContent() {
       </ul>
       <blockquote>
         <p>
-          See <a href="https://github.com/jasonhargrove/jasonhargrove/blob/main/buildlab/lab-l/log.txt">buildlab/lab-l/log.txt</a> for more updates 🌱 📈
+          See <a href="https://github.com/jasonhargrove/jasonhargrove/blob/main/buildlab/lab-l/log.txt">buildlab/LAB-L/LOG.txt</a> for more updates 🌱 📈
         </p>
       </blockquote>
     </div>
