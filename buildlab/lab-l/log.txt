@@ -45,3 +45,8 @@ demo logger and provide links for team to follow non-code contributions
 4/3/2022, 7:22:09 PM
 team relations
 discussion about first investors and team, what I'm looking for. setting the tone for culture, celebrating unique perspectives and diversity of thought
+
+---------------------+
+4/3/2022, 9:29:38 PM
+software design engineering
+add status updates to home page, increase visibility into project work for team
