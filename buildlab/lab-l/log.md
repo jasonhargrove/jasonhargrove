@@ -20,3 +20,8 @@ getting to know you discussions
 2022-04-03 18:28:32
 software engineering
 add logger to jasonhargrove open repo; connect with studio AI
+
+---------------------+
+2022-04-03 18:31:54
+team relations
+status update and invitations
