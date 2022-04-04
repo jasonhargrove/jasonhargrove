@@ -12,11 +12,11 @@ const message = args[2];
 const content = args[3];
 const date = moment().format('YYYY-MM-DD HH:m:s');
 
-const log = fs.readFileSync(__dirname + `/log.md`, 'utf8');
-fs.writeFileSync(__dirname + `/log-backup.md`, log, null, 'utf8');
+const log = fs.readFileSync(__dirname + `/log.txt`, 'utf8');
+fs.writeFileSync(__dirname + `/log-backup.txt`, log, null, 'utf8');
 
 const log_new = `\n${line}\n${date}\n${message}\n${content}\n`;
-fs.appendFileSync(__dirname + `/log.md`, log_new, 'utf8');
+fs.appendFileSync(__dirname + `/log.txt`, log_new, 'utf8');
 
 console.log(`  Log Updated  `.bgGreen.black);
 console.log(`${log_new.green}\n${line.green}\n`);
