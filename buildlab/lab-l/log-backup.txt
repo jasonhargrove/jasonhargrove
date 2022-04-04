@@ -30,3 +30,8 @@ status update and invitations
 2022-04-03 18:36:52
 product design
 user stories, wireframes
+
+---------------------+
+2022-04-03 18:41:46
+software engineering
+quick change new logger
