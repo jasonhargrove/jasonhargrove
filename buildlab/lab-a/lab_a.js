@@ -7,8 +7,7 @@ import colors from 'colors';
 
 export async function lab_a() {
   try {
-
-    console.log('\n◽◽◽◽ lab_a');
+    console.log(' lab_a '.bgWhite.black);
 
     const fetch_n_draw = async () => {
       await fetch_data_and_store();
@@ -19,7 +18,7 @@ export async function lab_a() {
 
     // return await fetch_n_draw();
 
-    console.log('\n-- lab_a disabled\n\n');
+    console.log(' /buildlab/lab-a/lab_a.js disabled '.bgRed.white);
 
     return 200;
 
@@ -28,7 +27,6 @@ export async function lab_a() {
     return e;
   }
 }
-
 
 export function draw_contributions(options) {
   try {

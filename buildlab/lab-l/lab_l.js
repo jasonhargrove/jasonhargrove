@@ -2,6 +2,28 @@ import fs from 'fs';
 import colors from 'colors';
 import { line } from './constants.js';
 
+
+export async function lab_l() {
+  try {
+    console.log(' lab_l '.bgWhite.black);
+
+    const process_log = async () => {
+      await process_log_for_microblog();
+      return 200;
+    };
+
+    // return await process_log();
+
+    console.log('/buildlab/lab-l/lab_l.js disabled'.bgRed.white);
+
+    return 200;
+
+  } catch (e) {
+    console.log(e);
+    return e;
+  }
+}
+
 export async function process_log_for_microblog() {
   try {
     console.log(' process_log_for_microblog '.bgWhite.black);
