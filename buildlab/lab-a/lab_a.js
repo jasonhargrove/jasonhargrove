@@ -3,6 +3,7 @@ import { createCanvas } from 'canvas';
 import { fetchDataForAllYears } from './github.contributions';
 import { drawContributions } from './github.contributions.canvas';
 import fs from 'fs';
+import colors from 'colors';
 
 export async function lab_a() {
   try {
@@ -31,7 +32,7 @@ export async function lab_a() {
 
 export function draw_contributions(options) {
   try {
-    console.log('\n◽◽ draw_contributions');
+    console.log(' draw_contributions '.bgWhite.black);
 
     const canvas = createCanvas();
     const data = require('./github-contributions-all-data.json').data;
@@ -44,8 +45,8 @@ export function draw_contributions(options) {
       themeName: 'githubDark',
       footerText: 'hey, you got this! have a great day :)'
     });
-    fs.writeFileSync('public/github-contributions-jasonhargrove.png', canvas.toBuffer())
-    console.log('\n\n 🦄 draw complete, see public\n');
+    fs.writeFileSync('public/github-contributions-jasonhargrove.png', canvas.toBuffer());
+    console.log('  ', ' 🦄 draw complete, see public '.bgGreen.black);
     return 200;
 
   } catch (e) {
@@ -55,7 +56,7 @@ export function draw_contributions(options) {
 
 export async function fetch_data_and_store() {
   try {
-    console.log('\n◽◽ fetch_data_and_store');
+    console.log(' fetch_data_and_store '.bgWhite.black);
 
     const data = await fetchDataForAllYears('jasonhargrove');
 
@@ -64,7 +65,7 @@ export async function fetch_data_and_store() {
       data
     });
 
-    console.log('\n\n 🤠 fetch complete\n');
+    console.log('  ', ' 🦄 fetch complete, see Lab A '.bgGreen.black);
 
     return 200;
 

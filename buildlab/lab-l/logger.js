@@ -6,7 +6,7 @@ import moment from 'moment';
 
 const execSync = require('child_process').execSync;
 
-const line = `---------------------+`;
+export const line = `---------------------+`;
 const args = process.argv;
 const message = args[2];
 const content = args[3];
