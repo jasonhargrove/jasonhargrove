@@ -13,8 +13,8 @@ import {
 const execSync = require('child_process').execSync;
 
 const make_github_image = async () => {
-  // await fetch_data_and_store();
-  // await draw_contributions();
+  await fetch_data_and_store();
+  await draw_contributions();
 };
 
 const copy_content = () => {

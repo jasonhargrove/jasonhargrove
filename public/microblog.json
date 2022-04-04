@@ -1,6 +1,11 @@
 {
-  "updated": "2022-04-04T04:12:05.993Z",
+  "updated": "2022-04-04T04:30:39.248Z",
   "items": [
+    [
+      "4/3/2022, 9:29:38 PM",
+      "software design engineering",
+      "add status updates to home page, increase visibility into project work for team"
+    ],
     [
       "4/3/2022, 7:22:09 PM",
       "team relations",
@@ -20,11 +25,6 @@
       "4/3/2022, 6:36:52 PM",
       "product design",
       "user stories, wireframes"
-    ],
-    [
-      "4/3/2022, 6:33:14 PM",
-      "team relations",
-      "status update and invitations"
     ]
   ]
 }
