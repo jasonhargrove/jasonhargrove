@@ -16,13 +16,11 @@ export async function process_log_for_microblog() {
 
     const microblog_items = items.slice(-5).reverse();
 
-    console.log(microblog_items);
-
     const path = 'public/microblog.json';
     fs.writeFileSync(path, JSON.stringify({
       updated: new Date(),
       items: microblog_items
-    }, null, 2))
+    }, null, 2));
 
     console.log('  ', ' 🦄 microblog complete, see public '.bgGreen.black);
 
