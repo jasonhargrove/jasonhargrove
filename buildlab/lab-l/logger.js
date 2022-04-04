@@ -15,7 +15,7 @@ const date = moment().format('YYYY-MM-DD HH:m:s');
 const log = fs.readFileSync(__dirname + `/log.md`, 'utf8');
 fs.writeFileSync(__dirname + `/log-backup.md`, log, null, 'utf8');
 
-const log_new = `\n${line}\n${date}\n${message}\n${content}`;
+const log_new = `\n${line}\n${date}\n${message}\n${content}\n`;
 fs.appendFileSync(__dirname + `/log.md`, log_new, 'utf8');
 
 console.log(`  Log Updated  `.bgGreen.black);
