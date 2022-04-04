@@ -4,13 +4,16 @@ import fs from 'fs';
 import colors from 'colors';
 import moment from 'moment';
 
+import { line } from './constants.js';
+
 const execSync = require('child_process').execSync;
 
-export const line = `---------------------+`;
 const args = process.argv;
 const message = args[2];
 const content = args[3];
-const date = moment().format('YYYY-MM-DD HH:m:s');
+const date = new Date().toLocaleString('en-US', {
+  timeZone: 'America/Los_Angeles'
+});
 
 const log = fs.readFileSync(__dirname + `/log.txt`, 'utf8');
 fs.writeFileSync(__dirname + `/log-backup.txt`, log, null, 'utf8');

@@ -2,46 +2,41 @@ Log
 ====
 
 ---------------------+
-2022-04-02 15:10:10
+4/2/2022, 3:10:10 PM
 investor relations
 getting to know you discussions
 
 ---------------------+
-2022-04-02 20:31:34
+4/2/2022, 8:31:34 PM
 product design
 product personas, user stories, bot jobs
 
 ---------------------+
-2022-04-03 14:48:02
+4/3/2022, 2:48:02 PM
 investor relations
 getting to know you discussions
 
 ---------------------+
-2022-04-03 18:28:32
+4/3/2022, 6:28:32 PM
 software engineering
 add logger to jasonhargrove open repo; connect with studio AI
 
 ---------------------+
-2022-04-03 18:33:14
+4/3/2022, 6:33:14 PM
 team relations
 status update and invitations
 
 ---------------------+
-2022-04-03 18:36:52
+4/3/2022, 6:36:52 PM
 product design
 user stories, wireframes
 
 ---------------------+
-2022-04-03 18:41:46
+4/3/2022, 6:41:46 PM
 software engineering
 quick change new logger
 
 ---------------------+
-2022-04-03 18:51:11
+4/3/2022, 6:51:11 PM
 team relations
 demo logger and provide links for team to follow non-code contributions
-
----------------------+
-2022-04-03 19:22:9
-team relations
-discussion about first investors and team, what I'm looking for. setting the tone for culture, celebrating unique perspectives and diversity of thought
