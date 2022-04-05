@@ -70,3 +70,8 @@ sprint planning upcoming two weeks; send invites async collaborators. drink tea 
 4/4/2022, 2:20:42 PM
 Product Design
 Continuing product design re Personas, User Stories, Robot jobs-to-be-done. Have been working through the web3 mutations re core project obsessions from R&D period. IYKYK (so many people already know). Decision-making this week 🎯
+
+---------------------+
+4/4/2022, 4:02:57 PM
+product design
+Finishing the afternoon with some art direction on a Pinterest mood board (continuation of last week's efforts). Seems clear we will ship two separate but related products; already largely developed and tested in various aspects of our market over the past 10+ years. Tomorrow, discussions re go-to-market plan

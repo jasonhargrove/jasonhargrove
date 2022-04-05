@@ -75,3 +75,8 @@ Continuing product design re Personas, User Stories, Robot jobs-to-be-done. Have
 4/4/2022, 4:02:57 PM
 product design
 Finishing the afternoon with some art direction on a Pinterest mood board (continuation of last week's efforts). Seems clear we will ship two separate but related products; already largely developed and tested in various aspects of our market over the past 10+ years. Tomorrow, discussions re go-to-market plan
+
+---------------------+
+4/4/2022, 10:52:48 PM
+software design engineering
+Code Review (to port modules from a robot lab to robots), and Conan O'Brien 🎧
