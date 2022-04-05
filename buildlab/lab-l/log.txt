@@ -79,4 +79,4 @@ Finishing the afternoon with some art direction on a Pinterest mood board (conti
 ---------------------+
 4/4/2022, 10:52:48 PM
 software design engineering
-Code Review (to port modules from a robot lab to robots), and Conan O'Brien 🎧
+Code Review (to port modules from a robot lab to robots), and Conan O'Brien podcast 🎧
