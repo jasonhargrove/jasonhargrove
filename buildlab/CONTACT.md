@@ -11,8 +11,6 @@ CONTACT
 
 ## START HERE
 
-`DISCORD` jasonhargrove#0001
-
 `TWITTER` jasonhargrove
 
 `EMAIL` contact@jasonhargrove.com
