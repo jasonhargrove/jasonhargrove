@@ -100,3 +100,8 @@ Wrapped workshop 3 w/ crypto squad re a PFP NFT project we're hyped for, to kick
 4/5/2022, 8:39:05 PM
 finance
 This evening was reading and sharing some finance docs. Have had my eye on SAFEs ("Simple Agreement for Future Equity") but these days looking at SAFTs. IYKYK (so many people already know)
+
+---------------------+
+4/6/2022, 10:02:21 AM
+software engineering
+🐇 down the rabbit hole like Alice, and in the Matrix like Neo: this morning working on Ethereum with Solidity. (😎🎧 And singing-along with Drake, ay! "This the flow that got the blog hot (Shit got super hot)") That's the fourth blockchain, ayy!
