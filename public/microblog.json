@@ -1,10 +1,15 @@
 {
-  "updated": "2022-04-12T17:46:54.748Z",
+  "updated": "2022-04-12T20:55:09.814Z",
   "items": [
+    [
+      "4/12/2022, 1:42:09 PM",
+      "team relations | community relations",
+      "Proposed a scouting program for recruitment. Weekly contributions by the team to identify people that we admire and want to work with; in order to reach out and invite them to connect. People we want to work with, collab with, to have in our community, or have as customers."
+    ],
     [
       "4/12/2022, 10:36:26 AM",
       "engineering",
-      "Added a thin integration of our AI to the Lab 3 Discord server just now. 🤖⚡️ Before the pandemic I worked out of Starbucks very often, during my heavy R&D years in AI. (Building chat apps on social APIs such as Twitter, Messenger, Slack, Twitch and more. Voice bots using Alexa, Google Home, and hand-made smart speakers using Rasperry Pi and Arduinos. Automations built for workplace apps along the lines of Slack, Google Docs, and GitHub. And more! Behind these integrations, a core focus in machine learning was Natural Language Processing and Vision. It was an incredibly potent era; an explosion of technology. Summer 2016 to Winter 2020; what a time to be alive!) ⚡️🤖 Random people would often talk to me at the cafe, and at least 33% of the time someone would suggest that my work could destroy humanity. Like any decent Evil-Genius, I would laugh at that, rubbing my hands together maniacally, drawing out the moment performatively. But my response was generally far more benign and boring: \"Nah. This particular robot hypes stream communities, works with the streamer to give the audience a great in-chat experience, and also subtley creates the conditions that inspire people to donate. It's not that serious!\" But of course, for the streamers and other growth-minded people who were testing with me, it was pretty serious business. 🤖⚡️ In the next two years a lot of good will go public finally. 🤌🏼 Today with this internal Discord server integration, our AI will have a few simple duties to begin: auto-deleting messages in certain channels after a certain time, sharing status updates with the team, and gathering them from the team. Just a start."
+      "Added a thin integration of our AI to the Lab 3 Discord server just now. 🤖⚡️ Before the pandemic I worked out of Starbucks often, during my heavy R&D years in AI. (Building chat apps on social APIs such as Twitter, Messenger, Slack, Twitch and more. Voice bots using Alexa, Google Home, and hand-made smart speakers using Raspberry Pi and Arduinos. Automations built for workplace apps along the lines of Slack, Google Docs, and GitHub. And more! Behind these integrations, a core focus in machine learning was Natural Language Processing and Vision. It was an incredibly potent era; an explosion of technology. Summer 2016 to Winter 2020; what a time to be alive!) ⚡️🤖 At the cafe random people would often talk with me, and if we got to talking about AI at least 33% of the time someone would suggest that my work could destroy humanity. Like any decent Evil-Genius I would laugh at that, rubbing my hands together maniacally, drawing out the moment performatively. \"Nah. This particular robot hypes stream communities, works with the streamer to give the audience a great in-chat experience, and also subtley creates the conditions that inspire people to donate. It's not that serious!\" But of course, for the streamers and other growth-minded people who were testing with me, it was serious business. 🤖⚡️ In the next two years a lot of good digital gear will go public finally. 🤌🏼 Today with this internal Discord server integration, our AI will have a few simple duties to begin: auto-deleting messages in certain channels after a certain time, sharing status updates with the team, and gathering them from the team. Just a start."
     ],
     [
       "4/11/2022, 1:45:41 PM",
@@ -20,11 +25,6 @@
       "4/11/2022, 12:24:55 PM",
       "product",
       "This morning: tea talk with the founders club ☕️ Spoke about DeFi and gushed a little. The radical creativity and boundary-breaking for product development and business models in the space is unparalled. Easy to overlook if you're on the outside glancing in. 👀 Need to lower and eliminate the barriers of entry. 👀 Need to adapt solutions for a wider audience. 👀 Pledged to work hard to onboard everyone who wants in 🦄"
-    ],
-    [
-      "4/10/2022, 12:01:58 PM",
-      "team relations | investor relations | community relations",
-      "The Post-Apocalypse. A time better than the era before. That's what this Spring feels like, two years since the world was overnight put on hold. This afternoon, working on a roadmap for navigating the near future. A version for our seed team, a version for the public; and a mechanism along the lines of \"The Marauder's Map\" for revealing secrets to the community as the community grows."
     ]
   ]
 }
