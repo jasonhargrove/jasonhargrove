@@ -163,5 +163,5 @@ The transition to ETH 2.0 is already one of the greatest stories of 2022 — goo
 
 ---------------------+
 4/13/2022, 6:43:25 PM
-Teammate recently fleshed out a model for the Discord community. Iterated on that setup a little, expressing a preference to maintain a separate hubs for community and core-team. Introduced the use of our AI as a bridge between these servers, and other services. People have different needs. Our robotics make different approaches for engagement possible, while maintaining connectivity as a whole.
-undefined
+Planning
+Teammate recently fleshed out a model for the Discord community. Iterated on that setup a little, expressing a preference to maintain a separate hubs for community and core-team. Introduced the use of our AI as a bridge between these servers, and other services. People have different needs. Our robotics make different approaches for engagement possible, while maintaining connectivity as a whole. ✍🏼🧐 
