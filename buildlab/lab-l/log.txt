@@ -160,3 +160,8 @@ Proposed a scouting program for recruitment. Weekly contributions by the team to
 4/12/2022, 6:44:33 PM
 DeFi
 The transition to ETH 2.0 is already one of the greatest stories of 2022 — good news sure to travel beyond crypto's borders. We're betting on it! ⛳ With lower network costs, expect to see much growth. And with the 99.98% reduced energy needs... to all my dear friends with deep concerns re environmental impact: time to celebrate! Ay! Let's get to work 🌞🌱 This afternoon the team gave me Plan A and Plan B, and while each have much merit, ETH's merge this summer is adding some bias. I weighed in with an opinion and volunteered to do some heavy lifting. Decision day coming soon ⛳️
+
+---------------------+
+4/13/2022, 6:43:25 PM
+Teammate recently fleshed out a model for the Discord community. Iterated on that setup a little, expressing a preference to maintain a separate hubs for community and core-team. Introduced the use of our AI as a bridge between these servers, and other services. People have different needs. Our robotics make different approaches for engagement possible, while maintaining connectivity as a whole.
+undefined
