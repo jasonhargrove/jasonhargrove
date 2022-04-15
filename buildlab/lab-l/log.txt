@@ -170,3 +170,8 @@ Planning
 4/15/2022, 12:34:42 PM
 Planning
 📸⚡️ Today in anticipation of adding members to our core-team, have been iterating on the Discord server, not just in architecture but in my own communications style. Really want to reach for the next level in how we communicate and collaborate. Slack and Discord are great but leave MUCH to be desired. In the previous update, I mentioned a use case for our robotics in this space. As we progress over the coming months, our own infrastructure will rank higher in importance for team comms. Today, settled on some patterns and set the tone. Let's see how it goes. 📸⚡️ Created a couple calendars for critical events, and proposed it as our guide. 📸⚡️ Also today, have been iterating on our alternate plan for our `Pre-Season` and something clicked in me and the seed team. We rewrote the Q2 roadmap and will ship our PFP NFT project in Q3, giving enough time to execute at the high level we want. This is good for our community as well. In Q2 we are pushing forward to release a family or product from the R&D lab. For those who were around in 2016 and 2017, you'll get a kick out of what's planned. Under the app and bot layer is a new Smart Contract codenamed: `Smart Contributor Contract 1`. A proof of work component that forms the basis of everything to ship this year and beyond.
+
+---------------------+
+4/15/2022, 3:02:45 PM
+📸⚡️ Was up literally all night iterating on it like a machine. It really just clicked. Shipped to team this morning and I received jazz hands in reply 🎺🤗 Yo, ready to go! Today marks the end of the second epic of 2022; a transitionary period. End of an era. 2016 until now
+undefined
