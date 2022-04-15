@@ -1,6 +1,16 @@
 {
-  "updated": "2022-04-14T02:52:25.899Z",
+  "updated": "2022-04-15T22:05:15.943Z",
   "items": [
+    [
+      "4/15/2022, 3:02:45 PM",
+      "Planning",
+      "📸⚡️ Was up literally all night, iterating on our plan like a machine. Really just clicked. Shipped to team this morning and I received jazz hands in reply 🎺🤗 Yo, ready to go! Today marks the end of the second epic of 2022; a transitionary period. End of an era. 2016 until now 💎 A certain form of populism on Twitter decries the notion of \"leaning in\" and would like to \"deglamourize the hustle\". At best these folks are simply saying: \"That's not good for me.\" And good for them! 💎 Not one to glamourize anything, what I will say: if it wasn't for my hustle, over the very long term, none of what I wanted for this life would have come to pass. And some of what has passed boggles the mind! 💎 Listening to Drake right now, singing: \"Started from the bottom now we here. Started from the bottom now my whole team truckin here.\" 💎 I and we are: Curious, Enthusiastic. Got Diamond Hands! 💎 Happy Easter friends. Will chill a little this long-weekend, while still keeping a little busy. Will not update this blog during this time, but today, I'm already looking forward to next week. \"Just getting started!\" 💎😉 Let's go!"
+    ],
+    [
+      "4/15/2022, 12:34:42 PM",
+      "Planning",
+      "📸⚡️ Today in anticipation of adding members to our core-team, have been iterating on the Discord server, not just in architecture but in my own communications style. Really want to reach for the next level in how we communicate and collaborate. Slack and Discord are great but leave MUCH to be desired. In the previous update, I mentioned a use case for our robotics in this space. As we progress over the coming months, our own infrastructure will rank higher in importance for team comms. Today, settled on some patterns and set the tone. Let's see how it goes. 📸⚡️ Created a couple calendars for critical events, and proposed it as our guide. 📸⚡️ Also today, have been iterating on our alternate plan for our `Pre-Season` and something clicked in me and the seed team. We rewrote the Q2 roadmap and will ship our PFP NFT project in Q3, giving enough time to execute at the high level we want. This is good for our community as well. In Q2 we are pushing forward to release a family or product from the R&D lab. For those who were around in 2016 and 2017, you'll get a kick out of what's planned. Under the app and bot layer is a new Smart Contract codenamed: `Smart Contributor Contract 1`. A proof of work component that forms the basis of everything to ship this year and beyond."
+    ],
     [
       "4/13/2022, 6:43:25 PM",
       "Planning",
@@ -15,16 +25,6 @@
       "4/12/2022, 1:42:09 PM",
       "team relations | community relations",
       "Proposed a scouting program for recruitment. Weekly contributions by the team to identify people that we respect and admire; in order to reach out and invite them to connect. People we want to work with, collab with, to have in our community, or have as customers. The bar so incredibly high, they are more likely to decline than to say yes 🎯"
-    ],
-    [
-      "4/12/2022, 10:36:26 AM",
-      "engineering",
-      "Added a thin integration of our AI to the Lab 3 Discord server just now. 🤖⚡️ Before the pandemic I worked out of Starbucks often, during my heavy R&D years in AI. (Building chat apps on social APIs such as Twitter, Messenger, Slack, Twitch and more. Voice bots using Alexa, Google Home, and hand-made smart speakers using Raspberry Pi and Arduinos. Automations built for workplace apps along the lines of Slack, Google Docs, and GitHub. And more! Behind these integrations, a core focus in machine learning was Natural Language Processing and Vision. It was an incredibly potent era; an explosion of technology. Summer 2016 to Winter 2020; what a time to be alive!) ⚡️🤖 At the cafe random people would often talk with me, and if we got to talking about AI at least 33% of the time it was suggested that my work could destroy humanity. Like any decent Evil-Genius I would laugh at that, and rub my hands together maniacally, drawing out the moment performatively. \"Nah. This particular robot hypes stream communities, works with the streamer to give the audience a great in-chat experience, and also subtley creates the conditions that inspire people to donate. It's not that serious!\" But of course, for the streamers and other growth-minded people who were testing with me, it was serious business. 🤖⚡️ Soon and over the next two years, a lot of good digital gear will go public finally. 🤌🏼 Today with this internal Discord server integration, our AI will have a few simple duties to begin: auto-deleting messages in certain channels after a certain time, sharing status updates with the team, and gathering them from the team. Just a start."
-    ],
-    [
-      "4/11/2022, 1:45:41 PM",
-      "community",
-      "Contributed a creative pitch, re community building. A bridge between a popular Solana NFT community and some of the robot parts in our lab. Our team's resident DeFi DeGen did a lot of great work to tee the concept up, I just took a swing at bat and something fun popped off. Potential home run? Only one way to find out... (The discussion then elaborated on creative direction and utility in our own PFP NFT concept. To reveal soon)"
     ]
   ]
 }
