@@ -1,10 +1,10 @@
 {
-  "updated": "2022-04-20T20:55:58.889Z",
+  "updated": "2022-04-22T00:57:54.623Z",
   "data": {
     "years": [
       {
         "year": "2022",
-        "total": 371,
+        "total": 395,
         "range": {
           "start": "2022-01-01",
           "end": "2022-12-31"
@@ -1634,15 +1634,15 @@
       },
       {
         "date": "2022-04-21",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 11,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-20",
-        "count": 1,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "count": 14,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-04-19",
