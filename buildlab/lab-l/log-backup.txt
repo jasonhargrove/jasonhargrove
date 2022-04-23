@@ -200,3 +200,8 @@ recruiting
 4/21/2022, 5:36:11 PM
 pitching | product
 ✨🤗💬🤗 Hidden in plain sight, within these conversations, are teasers for our Q2 product (announcing soon). First feedback has been 1: startled 😯 2: intrigued 🧐✨. And where I've been able to transparently product reveal, the feedback quickly became 3: celebratory 🤗✨🤯✨🤗. This afternoon, shared today's journey with the team. A team that's loving it. "Excited to pop this idea into existence with you!" ✨ Documented plans to pitch the Q2 solutions also within brick-and-mortar spaces, as we roll out first for DeFi projects and teams in the digital space ✨ Also had a call with a fashion and homewares app founder and pledged technology support for their project, leveraging our Q2 concepts. ✨✨ Need our support? Let's go! Open door: contact@jasonhargrove.com 🤗💬🤗✨
+
+---------------------+
+4/22/2022, 6:07:57 PM
+team relations
+👯‍♂️⚙️⚙️⚙️ Beginning to see responses on our recruiting mission — very cool. The group's enthusiasm and curiosity is infectious. Want to cultivate that and reward it, so this morning iterated further on our acknowledgement models. 👯‍♂️⚙️👯‍♂️ Spent some time with onboarding content. Found a workable setup together, re our comms platforms; and for project management. Wrote a short draft for a contributor handbook and linked to Glitch's docs as a temporary solution on some of the tougher topics. 👯‍♂️⚙️👯‍♂️ As well as more docs for the finance team; began laying out architectural reqs on the smart contract side. End of day, just doing code review. A lot of code to port into this release. That only makes me kind of giddy. Great way to wrap this good Friday ⚙️⚙️⚙️👯‍♂️
