@@ -205,3 +205,8 @@ pitching | product
 4/22/2022, 6:07:57 PM
 team relations
 👯‍♂️⚙️⚙️⚙️ Beginning to see responses on our recruiting mission — very cool. The group's enthusiasm and curiosity is infectious. Want to cultivate that and reward it, so this morning iterated further on our acknowledgement models. 👯‍♂️⚙️👯‍♂️ Spent some time with onboarding content. Found a workable setup together, re our comms platforms; and for project management. Wrote a short draft for a contributor handbook and linked to Glitch's docs as a temporary solution on some of the tougher topics. 👯‍♂️⚙️👯‍♂️ As well as more docs for the finance team; began laying out architectural reqs on the smart contract side. End of day, just doing code review. A lot of code to port into this release. That only makes me kind of giddy. Great way to wrap this good Friday ⚙️⚙️⚙️👯‍♂️
+
+---------------------+
+4/26/2022, 6:15:29 PM
+team relations
+🚶🌱 Spring and the Post-Covid-Post-Apocalypse (a time more enjoyable than the era before). April feels like a turning point. Welcome! Today, out and about with a camera. 📷🌱 Earlier recorded something similiar to a podcast, exclusive to the team. Listening to it now: liking how it sounds 🚶🎧🌱
