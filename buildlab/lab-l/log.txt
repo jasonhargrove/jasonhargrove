@@ -219,4 +219,4 @@ Sunday Sunday Sunday 🌞 Preparing to onboard another engineer. Iterated on our
 ---------------------+
 4/26/2022, 6:54:10 PM
 product
-🎟🎟 Non-fungible-token talk. Discussed smart contract architecture, and created a couple diagrams.
+🎟🎟 Non-fungible-token talk. Discussed smart contract architecture, and created a couple diagrams. 🎟🎟 Again debated approaches for Community Discord and committed to a path forward. Spoke openly of the challenges we see in most servers and challenged ourselves to try something new.
