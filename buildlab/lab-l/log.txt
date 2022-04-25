@@ -215,3 +215,8 @@ team relations
 4/26/2022, 6:34:08 PM
 recruitment
 Sunday Sunday Sunday 🌞 Preparing to onboard another engineer. Iterated on our contributor Discord. It's one of our fave apps — and as gain momentum with group comms, we're aiming to do something unusual with it. Sharing soon 🌞 Promoted content about Growth Loops and Hubspot's Flywheel. Wrote a bit about Customer Success. 🌞 Contributed more content for our recruitment campaign (open door: contact@jasonhargrove.com) 🌞 Scouted a dozen designers on Dribbble for game badge design (some great work in this batch) in preparation for pitches.
+
+---------------------+
+4/26/2022, 6:54:10 PM
+product
+🎟🎟 Non-fungible-token talk. Discussed smart contract architecture, and created a couple diagrams.
