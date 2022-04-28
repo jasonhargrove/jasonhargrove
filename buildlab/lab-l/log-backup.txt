@@ -212,7 +212,7 @@ team relations
 🚶🌱 Spring and the Post-Covid-Post-Apocalypse (a time more enjoyable than the era before). April feels like a turning point. Welcome! Today, out and about with a camera. 📷🌱 Earlier recorded something similiar to a podcast, exclusive to the team. Listening to it now: liking how it sounds 🚶🎧🌱
 
 ---------------------+
-4/24/2022, 11:02:51 PM
+4/24/2022, 11:02:51 AM
 recruitment
 Sunday Sunday Sunday 🌞 Preparing to onboard another engineer. Iterated on our contributor Discord. It's one of our fave apps — and as we gain momentum with our group comms, we're aiming to do something unusual with it. Sharing soon 🌞 Promoted content about Growth Loops and Hubspot's Flywheel. Wrote a bit about Customer Success. 🌞 Contributed more content for our recruitment campaign (open door: contact@jasonhargrove.com) 🌞 Scouted a dozen designers on Dribbble for game badge design (some great work in this batch) in preparation for pitches.
 
@@ -225,3 +225,8 @@ product
 4/26/2022, 7:10:06 PM
 team relations
 👯‍♂️🎟 Connected with the legendary producer who brought me onto the film project that presented at Cannes and other festivals. Pitched helping me pull together more team. 🎟👯‍♂️ Had a great meeting with our finance team and covered more ground for upcoming plans. Everything is good vibes and the beginnings of great collaboration. 🎟👯‍♂️ Connected with the founder who originally got me interested in blockchain, connecting the dots between happenings in the space and my R&D project Mainstream. We have great energy, both got excited about each other's progress. He's onboard to use our new Smart Contracts and loves the concepts. (Sharing soon.) 👯‍♂️🎟 Late-day scrum with team in preparation of some design and communications content we'll work on together tomorrow. ⚙️🪴 Finishing the day in code, preparing to go down the rabbit hole in the coming days — re UX of our next release. 🪴⚙️ 
+
+---------------------+
+4/27/2022, 11:02:45 AM
+networking
+🗽🏥 This morning saw my outbound emails light on fire. General networking. Notable was a suggestion to a property developer for experimenting with come of our R&D in their world. (Concepts that came out of 601 W 26th Street, Chelsea, NYC where the Familiar R&D project began.) 🏥🤖💭 Polished up documentation for the finance team — shipped it. 📈🤖💬 Began preparing GitHub repos for team use. Moved around repos in our orgs. More code review. 🕵🏼📄 Created a Google Docs template for general-purpose use. Forked it and wrote an abstract declaring core architectural principles. This doc, informing coming marketing page and other materials. Wrote out the core essentials of our next releases. 📈📄 Worked with the team on pitch materials for recruiting game badge designers. 📧📄 Prepared three wires for DM-friendly PNGs — also the basis of a user oriented pitch-deck. Iterated on the DM script and wrote some suggestions for a very personal approach. 📄📧 Wrote code for our Discord Bot Part and called it a day! 🤖📈
