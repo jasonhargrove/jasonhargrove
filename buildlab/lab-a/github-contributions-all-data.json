@@ -1,10 +1,10 @@
 {
-  "updated": "2022-04-27T19:19:49.463Z",
+  "updated": "2022-05-03T04:10:17.340Z",
   "data": {
     "years": [
       {
         "year": "2022",
-        "total": 422,
+        "total": 441,
         "range": {
           "start": "2022-01-01",
           "end": "2022-12-31"
@@ -12,7 +12,7 @@
       },
       {
         "year": "2021",
-        "total": 1982,
+        "total": 1981,
         "range": {
           "start": "2021-01-01",
           "end": "2021-12-31"
@@ -1586,21 +1586,21 @@
       },
       {
         "date": "2022-04-29",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 5,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-04-28",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 6,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-04-27",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 8,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-26",
@@ -2786,7 +2786,7 @@
       },
       {
         "date": "2021-10-11",
-        "count": 9,
+        "count": 8,
         "color": "#8AC14D",
         "intensity": "1"
       },
