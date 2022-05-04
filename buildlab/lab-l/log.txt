@@ -258,6 +258,6 @@ product design | business development
 📲⚙️ Product-focused day: let's go 📲⚙️ Began with messaging — chatting with people with some skin in the game (most people have skin in our game). Problem solving in the real world, this Product Talk Tuesday. 📲⚙️ In GitHub issues: elaborated on jobs to be done for our Q2 release. (Announcing soon! Open door: contact@jasonhargrove.com) 📲⚙️ Discussed `Agile story points`, for estimating in sprint planning. Applied it to this sprint. 📲⚙️ Another round of design using Discord and text as a model, to transform into models for web, phone, and smart-watch UX. Blockchain architecture tomorrow — new smart contracts, ay! 📲⚙️
 
 ---------------------+
-5/5/2022, 11:20:48 AM
+5/4/2022, 10:45:23 AM
 team relations
-👯‍♂️🏗 We've got our first internal producer — but we need more. More! (Internal and external; with various specialisms.) This morning, followed-up with the film producer I mentioned recently, and they're on board to help; ready to start scouting missions. Lightly discussed a plan, I need to prepare some materials for them.
+👯‍♂️🏗 We've got our first internal producer — but we need more. More! (Internal and external; with various specialisms.) This morning, followed-up with the film producer I mentioned recently, and they're on board to help; ready to start scouting missions. Lightly discussed a plan, I need to prepare some materials for them. 👯‍♂️🏗 Connected with one of our founding contributors on a critical piece needed to unblock our timeline; then updated the rest of the team and set next steps.
