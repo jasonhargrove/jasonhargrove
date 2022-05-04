@@ -251,3 +251,8 @@ content
 5/2/2022, 9:09:30 PM
 legal
 📲 Another Milestone Monday — let's go! Iterated on Sunday's legal docs numerously and shipped it. Wrapped the day with signatures. Just another Milestone Monday 🎵 Excited about Tuesday 📲 
+
+---------------------+
+5/3/2022, 9:39:57 PM
+product design | business development
+📲⚙️ Product-focused day: let's go 📲⚙️ Began with messaging — chatting with people with some skin in the game (most people have skin in our game). Problem solving in the real world, this Product Talk Tuesday. 📲⚙️ In GitHub issues: elaborated on jobs to be done for our Q2 release. (Announcing soon! Open door: contact@jasonhargrove.com) 📲⚙️ Discussed `Agile story points`, for estimating in sprint planning. Applied it to this sprint. 📲⚙️ Another round of design using Discord and text as a model, to transform into models for web, phone, and smart-watch UX. Blockchain architecture tomorrow — new smart contracts, ay! 📲⚙️
