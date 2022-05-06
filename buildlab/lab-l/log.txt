@@ -265,9 +265,4 @@ git
 ---------------------+
 5/5/2022, 10:40:42 AM
 documentation
-📄✍🏼 This status log began with the goal of using GH to log my contributions, and then evolved into a bit of a blog — but there's simply too much happening. Fully switched to an internal solution which is hyper detailed. In coming weeks will have the robot producer assist me with this blog using my detail logging. In the meantime, will do my best to summarize and accept that my GH data is falling behind. The fix is going to be great 📗📚 Workshop re game theory, discussed pitfalls of zero-sum thinking. Gamification talk about establishing status around true collaboration and contribution. Challenged the team to become more well-versed in these topics and pledged to do the same 📄✍🏼 Documented an accessibility Epic with plans for app distribution 📄✍🏼 Documented UX for our Q2 release re data taxonomy; opened tickets 📄✍🏼 Updated the team with distribution ideology, setting team expectations
-
-
-
-
-
+📄✍🏼 This status log began with the goal of using GH to log my contributions, and then evolved into a bit of a blog — but there's simply too much happening. Fully switched to an internal solution which is hyper detailed. In coming weeks will have the robot producer assist me with this blog using my detail logging. In the meantime, will do my best to summarize and accept that my GH data is falling behind. The fix is going to be great 📗📚 Workshop re game theory, discussed pitfalls of zero-sum thinking. Gamification talk about establishing status around true collaboration and contribution. Challenged the team to become more well-versed in these topics and pledged to do the same 📄✍🏼 Documented an accessibility Epic with plans for app distribution 📄✍🏼 Documented UX for our Q2 release re data taxonomy; opened tickets 📄✍🏼 Updated the team with distribution ideology, setting team expectations ⚙️🏗♻️ Iterated on app design using our models. Things really heating up and becoming very real ⚙️🏗💎
