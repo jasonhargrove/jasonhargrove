@@ -273,6 +273,11 @@ competitor analysis
 🔭 Created a reconnaissance program for looking into DeFi projects similar to our space. Not a critical piece right now, but provides guidance for the team should they want to explore something with intention. 🦠🔬 A couple of us checked out something in crypto, which brushes up against our interests. It turned out pretty meh, but did spark a good discussion. Our biggest competitors are still very firmly in web2 land. Massive incumbants 👯‍♂️🔭👯‍♀️ Engaged with team about accelerating our scouting missions. Discussed ideals and parameters. Together we sketched an approach and began accelerating our actions 👯‍♂️🏗 Iterated on a content model for our project management; distributed to team 🤖🔭 Dug up new resources for GPT-3 and opened ticket for digging in next week 🧳🔭 Looked into acquisition opportunities using an interesting resource in web2 land, looking for low-hanging-fruit to expand our offerings (found nothing but will continue next time I have a free period) 🥳🎉 Took a moment to celebrate with the team, reflecting on how far we've come in such a short period. Truly I N C R E D I B L E. Reiterated mission and our next steps. TGIF
 
 ---------------------+
-5/7/2022, 12:12:12 PM
+5/7/2022, 12:15:37 PM
 team
 👯‍♂️🏗 Wrote the seed of a program that encourages contributors to "go rogue". Some studios say they celebrate people who take initiative, but in my experience few have tolerance for people who think outside of the box. When I say we want it, I mean it literally. This initiative codifies this ideal, and provides a framework for execution. Soon our robot producer will be outfitted with bot parts to support it within our systems. Distributed news of it amongst the team. 👯‍♂️🏗🏎🤖💭 Opened feature requests for Rogue v1, as well as for the robot being aware of our team momentum from sprint to sprint. 🏎🤖💭 Spent a bit of time giving feedback on our scouting missions. Otherwise got some rest, happy Saturday! ✨🚀
+
+---------------------+
+5/8/2022, 10:02:49 PM
+product
+🏗🤖 Opened 12 feature requests each with a fleshed out business case. Likely we'll action on all, but timeline needs more work.
