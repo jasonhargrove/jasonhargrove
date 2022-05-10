@@ -285,4 +285,4 @@ product
 ---------------------+
 5/9/2022, 11:25:03 PM
 team
-✍🏼👯‍♂️ In preparation for our formal kickoff, preparing content and distributing content for syncing the team. 👯‍♂️💬👯‍♂️ Initiated convo about social content strategy; and began preparing the team for this branch of work. 🏗🏅📊 Forked our no-code prototype of our incentives app and deployed the v0.2 model as we prepare to onboard new contributors. This version smooths out a few friction points and better prepares our team for finding their niche as the startup evolves.
+✍🏼👯‍♂️ In preparation for our formal kickoff, preparing content and distributing content for syncing the team. 👯‍♂️💬👯‍♂️ Initiated convo about social content strategy; and began preparing the team for this branch of work. 🏗🏅📊 Forked our no-code prototype of our incentives app and deployed the v0.2 model as we prepare to onboard new contributors. This version smooths out a few friction points and better prepares our team for finding their niche as the startup evolves. 🏗🤖 More time with product architecture in preparation for UX design and development sprints.
