@@ -289,6 +289,6 @@ team
 
 
 ---------------------+
-5/9/2022, 11:25:03 PM
+5/10/2022, 9:05:51 PM
 team
-🔬🏗 Time to shift a little inward and carry some heavy weight for the crew on the product end. To help shift mental model, jumped into codebases from R&D labs. Running locally doing diagnostics and package security review.
+🔬🏗 Time to shift a little inward and carry some heavy weight for the crew on the product end. To help shift mental model, jumped into codebases from R&D labs. Running locally doing diagnostics and package security review. 🏗⚙️🤖 DevOps! Decided on a relay system so that the web can speak to the AI running on my local systems. Leaving it on a tab and will implement soon.
