@@ -292,3 +292,9 @@ team
 5/10/2022, 9:05:51 PM
 team
 🔬🏗 Time to shift a little inward and carry some heavy weight for the crew on the product end. To help shift mental model, jumped into codebases from R&D labs. Running locally doing diagnostics and package security review. 🏗⚙️🤖 DevOps! Decided on a relay system so that the web can speak to the AI running on my local systems. Leaving it on a tab and will implement soon. ✍🏼👯‍♂️ More project management. Updates for team, coordination, and some training. Preparation for acceleration this week. ✍🏼👯‍♂️ Content and lab adjustments in preparation to onboard new contributor, film producer background 🦅💥 Created an "Eagle Strike" X-Achievement and awarded it to a contributor who helped make some magic happen. Decisive action, with immediately favourable outcomes. LFG
+
+
+---------------------+
+5/11/2022, 10:17:05 PM
+team
+🙀📉 With the markets having a meltdown, had an early morning huddle with our finance lead. My message was simple: aside of the personal pain, the project is web3 yes but the volatility of crypto and the wider economy will not impede us. Long-term timeline, the trend has been Up Only, and our space is entirely the future.
