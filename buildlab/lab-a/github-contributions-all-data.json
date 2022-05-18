@@ -1,10 +1,10 @@
 {
-  "updated": "2022-05-18T05:29:18.033Z",
+  "updated": "2022-05-18T05:46:37.287Z",
   "data": {
     "years": [
       {
         "year": "2022",
-        "total": 566,
+        "total": 576,
         "range": {
           "start": "2022-01-01",
           "end": "2022-12-31"
@@ -1478,15 +1478,15 @@
       },
       {
         "date": "2022-05-17",
-        "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "count": 12,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-05-16",
-        "count": 2,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "count": 5,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-05-15",
@@ -1551,14 +1551,14 @@
       {
         "date": "2022-05-05",
         "count": 18,
-        "color": "#4f9d45",
-        "intensity": "3"
+        "color": "#368CC6",
+        "intensity": "4"
       },
       {
         "date": "2022-05-04",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-05-03",
@@ -1587,14 +1587,14 @@
       {
         "date": "2022-04-29",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-28",
         "count": 6,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-27",
@@ -1611,8 +1611,8 @@
       {
         "date": "2022-04-25",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-24",
@@ -1629,20 +1629,20 @@
       {
         "date": "2022-04-22",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
-      },
-      {
-        "date": "2022-04-21",
-        "count": 12,
         "color": "#60ad4b",
         "intensity": "2"
       },
       {
-        "date": "2022-04-20",
-        "count": 14,
+        "date": "2022-04-21",
+        "count": 12,
         "color": "#4f9d45",
         "intensity": "3"
+      },
+      {
+        "date": "2022-04-20",
+        "count": 14,
+        "color": "#368CC6",
+        "intensity": "4"
       },
       {
         "date": "2022-04-19",
@@ -1671,8 +1671,8 @@
       {
         "date": "2022-04-15",
         "count": 6,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-14",
@@ -1683,8 +1683,8 @@
       {
         "date": "2022-04-13",
         "count": 6,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-04-12",
@@ -1695,8 +1695,8 @@
       {
         "date": "2022-04-11",
         "count": 12,
-        "color": "#60ad4b",
-        "intensity": "2"
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-04-10",
@@ -1719,8 +1719,8 @@
       {
         "date": "2022-04-07",
         "count": 17,
-        "color": "#4f9d45",
-        "intensity": "3"
+        "color": "#368CC6",
+        "intensity": "4"
       },
       {
         "date": "2022-04-06",
@@ -1737,8 +1737,8 @@
       {
         "date": "2022-04-04",
         "count": 10,
-        "color": "#60ad4b",
-        "intensity": "2"
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-04-03",
@@ -1815,8 +1815,8 @@
       {
         "date": "2022-03-22",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-03-21",
@@ -1851,8 +1851,8 @@
       {
         "date": "2022-03-16",
         "count": 14,
-        "color": "#4f9d45",
-        "intensity": "3"
+        "color": "#368CC6",
+        "intensity": "4"
       },
       {
         "date": "2022-03-15",
@@ -1881,8 +1881,8 @@
       {
         "date": "2022-03-11",
         "count": 6,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-03-10",
@@ -2007,8 +2007,8 @@
       {
         "date": "2022-02-18",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-02-17",
@@ -2031,8 +2031,8 @@
       {
         "date": "2022-02-14",
         "count": 14,
-        "color": "#4f9d45",
-        "intensity": "3"
+        "color": "#368CC6",
+        "intensity": "4"
       },
       {
         "date": "2022-02-13",
@@ -2067,8 +2067,8 @@
       {
         "date": "2022-02-08",
         "count": 11,
-        "color": "#60ad4b",
-        "intensity": "2"
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-02-07",
@@ -2097,8 +2097,8 @@
       {
         "date": "2022-02-03",
         "count": 10,
-        "color": "#60ad4b",
-        "intensity": "2"
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-02-02",
@@ -2115,8 +2115,8 @@
       {
         "date": "2022-01-31",
         "count": 11,
-        "color": "#60ad4b",
-        "intensity": "2"
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-01-30",
@@ -2229,20 +2229,20 @@
       {
         "date": "2022-01-12",
         "count": 11,
-        "color": "#60ad4b",
-        "intensity": "2"
-      },
-      {
-        "date": "2022-01-11",
-        "count": 16,
         "color": "#4f9d45",
         "intensity": "3"
       },
       {
+        "date": "2022-01-11",
+        "count": 16,
+        "color": "#368CC6",
+        "intensity": "4"
+      },
+      {
         "date": "2022-01-10",
         "count": 5,
-        "color": "#8AC14D",
-        "intensity": "1"
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-01-09",

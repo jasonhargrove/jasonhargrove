@@ -1,6 +1,16 @@
 {
-  "updated": "2022-05-18T05:29:15.746Z",
+  "updated": "2022-05-18T05:46:34.173Z",
   "items": [
+    [
+      "5/17/2022, 10:37:01 PM",
+      "team",
+      "✍🏼🏗👯‍♂️ Wrote a state of the union and a personal stand-up for the team. ✍🏼🏗👯‍♂️ Another round of aligning the group re next steps. 🧹🏗 Some chores around the studio (Robot Lab 1), getting more of the Toronto lab unpacked and put into place. Spend some time with my main video rig and some assets in Blender for a compositing project we'll finish up soon. Got to start publishing in the next few weeks. ✍🏼🏗👯‍♂️ Spent time with new team members, laying the groundwork for upcoming executions. ✍🏼🏗 Sat down to catch up on 10 days of this blog. Painful! Grateful for our robot producer, who's been keeping track of it all. 🤖✨"
+    ],
+    [
+      "5/16/2022, 11:20:42 PM",
+      "product",
+      "✍🏼🏗👯‍♂️ Sat down to iterate on architectural diagrams and content for our second blockchain engineering contributor. Expanding our bandwidth and preparing for a busy summer. The needs are light up-front so our primary intention now is onboarding and preparing the team for collaboration. 👯‍♂️👯‍♂️🏗 Great meeting with to kickstart that engineering expansion. I like to think of us as Robot Mechanics. In our ranks, there's another one! ✍🏼🏗👯‍♂️ Most of the day was project management, creating issues and tasks for new members. ✍🏼🏗👯‍♂️ Some collab with the OG team re fine-tuning their scouting missions."
+    ],
     [
       "5/15/2022, 8:32:00 PM",
       "DevOps",
@@ -40,16 +50,6 @@
       "5/7/2022, 12:15:37 PM",
       "team",
       "👯‍♂️🏗 Wrote the seed of a program that encourages contributors to \"go rogue\". Some studios say they celebrate people who take initiative, but in my experience few have tolerance for people who think outside of the box. When I say we want it, I mean it literally. This initiative codifies this ideal, and provides a framework for execution. Soon our robot producer will be outfitted with bot parts to support it within our systems. Distributed news of it amongst the team. 👯‍♂️🏗🏎🤖💭 Opened feature requests for Rogue v1, as well as for the robot being aware of our team momentum from sprint to sprint. 🏎🤖💭 Spent a bit of time giving feedback on our scouting missions. Otherwise got some rest, happy Saturday! ✨🚀"
-    ],
-    [
-      "5/6/2022, 6:48:09 PM",
-      "competitor analysis",
-      "🔭 Created a reconnaissance program for looking into DeFi projects similar to our space. Not a critical piece right now, but provides guidance for the team should they want to explore something with intention. 🦠🔬 A couple of us checked out something in crypto, which brushes up against our interests. It turned out pretty meh, but did spark a good discussion. Our biggest competitors are still very firmly in web2 land. Massive incumbants 👯‍♂️🔭👯‍♀️ Engaged with team about accelerating our scouting missions. Discussed ideals and parameters. Together we sketched an approach and began accelerating our actions 👯‍♂️🏗 Iterated on a content model for our project management; distributed to team 🤖🔭 Dug up new resources for GPT-3 and opened ticket for digging in next week 🧳🔭 Looked into acquisition opportunities using an interesting resource in web2 land, looking for low-hanging-fruit to expand our offerings (found nothing but will continue next time I have a free period) 🥳🎉 Took a moment to celebrate with the team, reflecting on how far we've come in such a short period. Truly I N C R E D I B L E. Reiterated mission and our next steps. TGIF"
-    ],
-    [
-      "5/5/2022, 10:40:42 AM",
-      "documentation",
-      "📄✍🏼 This status log began with the goal of using GH to log my contributions, and then evolved into a bit of a blog — but there's simply too much happening. Fully switched to an internal solution which is hyper detailed. In coming weeks will have the robot producer use that data to assist me with this blog. In the meantime, will do my best to summarize and accept that my GH data is falling behind. The fix is going to be great 📗📚 Workshop re game theory, discussed pitfalls of zero-sum thinking. Gamification talk about establishing status around true collaboration and contribution. Challenged the team to become more well-versed in these topics and pledged to do the same 📄✍🏼 Documented an accessibility Epic with plans for app distribution 📄✍🏼 Documented UX for our Q2 release re data taxonomy; opened tickets 📄✍🏼 Updated the team with distribution ideology, setting team expectations ⚙️🏗♻️ Iterated on app design using our models. Things really heating up and becoming very real ⚙️🏗💎"
     ]
   ]
 }
