@@ -249,7 +249,12 @@ $view_margin: 62px;
       padding: 5px 12px;
     }
     li:nth-of-type(4),
-    li:nth-of-type(5) {
+    li:nth-of-type(5),
+    li:nth-of-type(6),
+    li:nth-of-type(7),
+    li:nth-of-type(8),
+    li:nth-of-type(9),
+    li:nth-of-type(10) {
       span {
         background: $yellow_variant;
       };
