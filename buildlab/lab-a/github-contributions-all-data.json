@@ -1,10 +1,10 @@
 {
-  "updated": "2022-05-18T05:14:10.024Z",
+  "updated": "2022-05-18T05:29:18.033Z",
   "data": {
     "years": [
       {
         "year": "2022",
-        "total": 556,
+        "total": 566,
         "range": {
           "start": "2022-01-01",
           "end": "2022-12-31"
@@ -1478,7 +1478,7 @@
       },
       {
         "date": "2022-05-17",
-        "count": 1,
+        "count": 5,
         "color": "#8AC14D",
         "intensity": "1"
       },
@@ -1490,9 +1490,9 @@
       },
       {
         "date": "2022-05-15",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 3,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-14",
@@ -1502,9 +1502,9 @@
       },
       {
         "date": "2022-05-13",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 3,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-12",
