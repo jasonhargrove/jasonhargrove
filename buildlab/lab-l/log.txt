@@ -316,3 +316,8 @@ DevOps
 5/16/2022, 11:20:42 PM
 product
 ✍🏼🏗👯‍♂️ Sat down to iterate on architectural diagrams and content for our second blockchain engineering contributor. Expanding our bandwidth and preparing for a busy summer. The needs are light up-front so our primary intention now is onboarding and preparing the team for collaboration. 👯‍♂️👯‍♂️🏗 Great meeting with to kickstart that engineering expansion. I like to think of us as Robot Mechanics. In our ranks, there's another one! ✍🏼🏗👯‍♂️ Most of the day was project management, creating issues and tasks for new members. ✍🏼🏗👯‍♂️ Some collab with the OG team re fine-tuning their scouting missions.
+
+---------------------+
+5/17/2022, 11:37:01 PM
+team
+✍🏼🏗👯‍♂️ Wrote a state of the union and a personal stand-up for the team.
