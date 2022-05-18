@@ -1,30 +1,56 @@
 {
-  "updated": "2022-05-03T04:10:13.600Z",
+  "updated": "2022-05-18T05:14:03.067Z",
   "items": [
     [
-      "5/2/2022, 9:09:30 PM",
-      "legal",
-      "📲 Another Milestone Monday — let's go! Iterated on Sunday's legal docs numerously and shipped it. Wrapped the day with signatures. Just another Milestone Monday 🎵 Excited about Tuesday 📲"
+      "5/13/2022, 9:25:40 PM",
+      "DevOps",
+      "🙌👯‍♂️🙌 Friday the 13 and nothing and it's good news only. A relationship we've been working on for months converted and they've joined us on our mission. (Sharing that mission with the public soon! Questions? I'm an open book: contact@jasonhargrove.com) 👯‍♂️🏗 Preparing discord for team expansion. Moving prototype channels around. New labs for each new member. The week is getting more and more dense, yo! 🙌👯‍♂️🙌 Voice call with Startup-Era-Day-1-OG-Team to reflect on our journey this year, and the changes unfolding rapidly. Shared first information about the project codenamed CORPO. Spoke about branding topics, and the upcoming design-team expansion."
     ],
     [
-      "5/1/2022, 12:03:37 PM",
-      "content",
-      "📸⚡️ Headed to ye ol' camera shoppe and picked up the new FTZ II, Nikon's mount adapter, which enables me to use ye ol' compliment of F-mount lenses on my Nikon Z bodies. Very nice. Sleek. A little surprised by how good it feels. (And none of the cost of the new Z lenses!) With the pandemic receding, going to get back out there ⚡️📸 Met with our finance lead, had a good talk about the future 📞⚡️ Began a bit of work in some legal docs to finish out the day ⚡️📄"
+      "5/12/2022, 11:01:31 PM",
+      "DevOps",
+      "🏗⚙️🤖 DevOps Architecture Day 2. AWS infrastructure, reviewing solutions for websockets with API Gateway and Beanstalk, and more 🏗⚙️🤖 A bit of time reviewing AWS new interfaces. 🏗⚙️🤖 The last of this week's architectural work, confirming we will continue to maintain our own node servers, particularly for open trustless use cases, and enterprise on-prem. Alongside our blockchain solutions. ✍🏼⚙️ Some time in Github issues on prototype tools and a couple new repos. ✍🏼👯‍♂ Connected with our finance lead on admin items, good chat as ever ✍🏼👯‍♂ Connected with the blockchain engineer we are onboarding, let's go! 👯‍♂️🏗 As I transition into product-focus this sprint, sent content to empower the team to be my eyes and ears when I'm down the rabbit hole in code. (A very focused, very anti-social state of being.) Created short-circuit mechanism to help me surface, so I can help keep everyone aligned. 📸📄 Fielded a use-request re some photographs, and shared with team as a real-time case study for something we are preparing for wide-release this summer. 📄🏗 Review of the January smart contract I wrote for Near blockchain, and the associated web UX. Considered how it will apply now and into the future. Preparing to share with the entire team in the coming weeks."
     ],
     [
-      "4/29/2022, 10:08:59 AM",
+      "5/11/2022, 10:17:05 PM",
+      "team",
+      "🙀📉 With the markets having a meltdown, had an early morning huddle with our finance lead. My message was simple: aside of the personal pain, the project is web3 yes but the volatility of crypto and the wider economy will not impede us. Long-term timeline, the trend has been Up Only, and our space is entirely the future.  🏗⚙️🤖 DevOps! More time in our codebases doing review and preparing. 🏗⚙️🤖 Total architectural review of our DevOps infrastructure underway, first iterations on the documentation for going to market. 🏗⚙️🤖 Transitioned one of our proto-services off of Heroku, finally shutting down Heroku (for good, probably). ✍🏼👯‍♂️ Wrote \"top-secret\" documentation regarding a project codenamed: CORPO. Early stage revenue games. ✍🏼👯‍♂️ Wrote more onboarding content for team as we transition into full-fledged startup-mode. 🦅👯‍♂️ Collab with team on our scouting missions. We decided to get onboarded into LinkedIn's recruiter package. Seems pricey but seems useful ✅💹 Got inspired and wrote a bit of documentation about our pricing models. ✍🏼✨"
+    ],
+    [
+      "5/10/2022, 9:05:51 PM",
+      "team",
+      "🔬🏗 Time to shift a little inward and carry some heavy weight for the crew on the product end. To help shift mental model, jumped into codebases from R&D labs. Running locally doing diagnostics and package security review. 🏗⚙️🤖 DevOps! Decided on a relay system so that the web can speak to the AI running on my local systems. Leaving it on a tab and will implement soon. ✍🏼👯‍♂️ More project management. Updates for team, coordination, and some training. Preparation for acceleration this week. ✍🏼👯‍♂️ Content and lab adjustments in preparation to onboard new contributor, film producer background 🦅💥 Created an \"Eagle Strike\" X-Achievement and awarded it to a contributor who helped make some magic happen. Decisive action, with immediately favourable outcomes. LFG"
+    ],
+    [
+      "5/9/2022, 11:25:03 PM",
+      "team",
+      "✍🏼👯‍♂️ In preparation for our formal kickoff, preparing content and distributing content for syncing the team. 👯‍♂️💬👯‍♂️ Initiated convo about social content strategy; and began preparing the team for this branch of work. 🏗🏅📊 Forked our no-code prototype of our incentives app and deployed the v0.2 model as we prepare to onboard new contributors. This version smooths out a few friction points and better prepares our team for finding their niche as the startup evolves. 🏗🤖 More time with product architecture in preparation for UX design and development sprints."
+    ],
+    [
+      "5/8/2022, 10:02:49 PM",
+      "product",
+      "🏗🤖 Opened 12 feature requests each with a fleshed out business case. Likely we'll action on all, but timeline needs more work. 🦅👯‍♂️ More light work with team on scouting missions. And coaching regarding recent evolutions regarding our norms. 🏅👯‍♂️🏅 Awarded a couple X-Achievements for the team, celebrating outstanding contributions. 🏅📊 Proposed an early-adopter multiplier in our incentives program, in recognition of the fast evolutions in our design process."
+    ],
+    [
+      "5/7/2022, 12:15:37 PM",
+      "team",
+      "👯‍♂️🏗 Wrote the seed of a program that encourages contributors to \"go rogue\". Some studios say they celebrate people who take initiative, but in my experience few have tolerance for people who think outside of the box. When I say we want it, I mean it literally. This initiative codifies this ideal, and provides a framework for execution. Soon our robot producer will be outfitted with bot parts to support it within our systems. Distributed news of it amongst the team. 👯‍♂️🏗🏎🤖💭 Opened feature requests for Rogue v1, as well as for the robot being aware of our team momentum from sprint to sprint. 🏎🤖💭 Spent a bit of time giving feedback on our scouting missions. Otherwise got some rest, happy Saturday! ✨🚀"
+    ],
+    [
+      "5/6/2022, 6:48:09 PM",
+      "competitor analysis",
+      "🔭 Created a reconnaissance program for looking into DeFi projects similar to our space. Not a critical piece right now, but provides guidance for the team should they want to explore something with intention. 🦠🔬 A couple of us checked out something in crypto, which brushes up against our interests. It turned out pretty meh, but did spark a good discussion. Our biggest competitors are still very firmly in web2 land. Massive incumbants 👯‍♂️🔭👯‍♀️ Engaged with team about accelerating our scouting missions. Discussed ideals and parameters. Together we sketched an approach and began accelerating our actions 👯‍♂️🏗 Iterated on a content model for our project management; distributed to team 🤖🔭 Dug up new resources for GPT-3 and opened ticket for digging in next week 🧳🔭 Looked into acquisition opportunities using an interesting resource in web2 land, looking for low-hanging-fruit to expand our offerings (found nothing but will continue next time I have a free period) 🥳🎉 Took a moment to celebrate with the team, reflecting on how far we've come in such a short period. Truly I N C R E D I B L E. Reiterated mission and our next steps. TGIF"
+    ],
+    [
+      "5/5/2022, 10:40:42 AM",
+      "documentation",
+      "📄✍🏼 This status log began with the goal of using GH to log my contributions, and then evolved into a bit of a blog — but there's simply too much happening. Fully switched to an internal solution which is hyper detailed. In coming weeks will have the robot producer use that data to assist me with this blog. In the meantime, will do my best to summarize and accept that my GH data is falling behind. The fix is going to be great 📗📚 Workshop re game theory, discussed pitfalls of zero-sum thinking. Gamification talk about establishing status around true collaboration and contribution. Challenged the team to become more well-versed in these topics and pledged to do the same 📄✍🏼 Documented an accessibility Epic with plans for app distribution 📄✍🏼 Documented UX for our Q2 release re data taxonomy; opened tickets 📄✍🏼 Updated the team with distribution ideology, setting team expectations ⚙️🏗♻️ Iterated on app design using our models. Things really heating up and becoming very real ⚙️🏗💎"
+    ],
+    [
+      "5/4/2022, 10:45:23 AM",
       "team relations",
-      "🌳🌳🌲 A time for evolutions. Pitched a growth role for a valued contributor and looking forward to following-up. 🌲🌳🌳 Time with the team updating each other on our progress and our goals. 🌳🌳🌲 Figma caught some attention for a couple hours in the afternoon. Designer pitch, logo playground, wires 🌲🌳🌳 Finished the day with a scouting mission for game designers. Two of us on the search for super inspirational people to pitch. Join Us? (Open door: contact@jasonhargrove.com) 🌳🌳🌲💹"
-    ],
-    [
-      "4/28/2022, 4:49:42 PM",
-      "team relations",
-      "⚙️👯‍♂️👯‍♀️ Team operations; preparation for upcoming sprint tasks. HR. 👯‍♀️👯‍♂️⚙️ Discussion with finance team lead, finalizing details on our fundraise, and some long-term planning. ⚙️👯‍♂️👯‍♀️ Discussed a potential L2 partner for Ethereum. 👯‍♀️👯‍♂️⚙️ Quick interactions with our Montreal-based contributor, planting seeds for the fall. Some technical support for one of her collaborators. (Possible future code contributor?!) ⚙️👯‍♂️👯‍♀️ Bombarded the team with a dozen Growth Loop resources in preparation for what's coming next. ⚙️👯‍♀️👯‍♂️ At my local cafe updating this blog. Will get dinner and sit down in Figma to finish up those PNGs for the potential designers. Let's go! 👯‍♀️👯‍♂️⚙️"
-    ],
-    [
-      "4/27/2022, 11:02:45 AM",
-      "networking",
-      "🗽🏥 This morning saw my outbound emails light on fire. General networking. Notable was a suggestion to a property developer for experimenting with come of our R&D in their world. (Concepts that came out of 601 W 26th Street, Chelsea, NYC where the Familiar R&D project began.) 🏥🤖💭 Polished up documentation for the finance team — shipped it. 📈🤖💬 Began preparing GitHub repos for team use. Moved around repos in our orgs. More code review. 🕵🏼📄 Created a Google Docs template for general-purpose use. Forked it and wrote an abstract declaring core architectural principles. This doc, informing coming marketing page and other materials. Wrote out the core essentials of our next releases. 📈📄 Worked with the team on pitch materials for recruiting game badge designers. 📧📄 Prepared three wires for DM-friendly PNGs — also the basis of a user oriented pitch-deck. Iterated on the DM script and wrote some suggestions for a very personal approach. 📄📧 Wrote code for our Discord Bot Part and called it a day! 🤖📈"
+      "👯‍♂️🏗 We've got our first internal producer — but we need more. More! (Internal and external; with various specialisms.) This morning, followed-up with the film producer I mentioned recently, and they're on board to help; ready to start scouting missions. Lightly discussed a plan, I need to prepare some materials for them. 👯‍♂️🏗 Connected with one of our founding contributors on a critical piece needed to unblock our timeline; then updated the rest of the team and set next steps. 👯‍♂️🏗 Updated our contributor acknowledgement parameters with results of our internal progressions. ⚙️🏗💎 Fleshed out \"user stories\" or \"jobs-to-be-done\" or \"feature requests\" with a few items we'll aim to get into the next release. ⚙️🏗💎 Invested the rest of the day in product design using text and Discord as an open model. About to get heavy into UX code (while continuing to carry a lot of these other balls too) ⚙️🏗💎",
+      "git"
     ]
   ]
 }

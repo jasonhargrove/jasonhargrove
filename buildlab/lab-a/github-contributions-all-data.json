@@ -1,10 +1,10 @@
 {
-  "updated": "2022-05-03T04:10:17.340Z",
+  "updated": "2022-05-18T05:14:10.024Z",
   "data": {
     "years": [
       {
         "year": "2022",
-        "total": 441,
+        "total": 556,
         "range": {
           "start": "2022-01-01",
           "end": "2022-12-31"
@@ -1478,15 +1478,15 @@
       },
       {
         "date": "2022-05-17",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 1,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-16",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 2,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-15",
@@ -1508,75 +1508,75 @@
       },
       {
         "date": "2022-05-12",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 13,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-05-11",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 21,
+        "color": "#368CC6",
+        "intensity": "4"
       },
       {
         "date": "2022-05-10",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 8,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-05-09",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 7,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-05-08",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 4,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-07",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 13,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-05-06",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 9,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-05-05",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 18,
+        "color": "#4f9d45",
+        "intensity": "3"
       },
       {
         "date": "2022-05-04",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 5,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-03",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 9,
+        "color": "#60ad4b",
+        "intensity": "2"
       },
       {
         "date": "2022-05-02",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 2,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-05-01",
-        "count": 0,
-        "color": "#ebedf0",
-        "intensity": "0"
+        "count": 3,
+        "color": "#8AC14D",
+        "intensity": "1"
       },
       {
         "date": "2022-04-30",
