@@ -36,7 +36,7 @@ export async function process_log_for_microblog() {
       return x.trim().split('\n')
     });
 
-    const microblog_items = items.slice(-5).reverse();
+    const microblog_items = items.slice(-10).reverse();
 
     const path = 'public/microblog.json';
     fs.writeFileSync(path, JSON.stringify({
